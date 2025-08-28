@@ -1,0 +1,82 @@
+[2025. 08. 25. 09:38:27] Hiba a lekérés során: The requested identifier already exists.
+[2025. 08. 25. 09:39:30] Hiba a lekérés során: The requested identifier already exists.
+[2025. 08. 25. 09:40:29] Hiba a lekérés során: The requested identifier already exists.
+[2025. 08. 25. 09:41:28] Hiba a lekérés során: The requested identifier already exists.
+[2025. 08. 25. 11:42:16] Hiba a lekérés során: createEventObject is not a function
+[2025. 08. 25. 13:07:00] Hiba a lekérés során: Cannot read properties of undefined (reading 'padStart')
+[2025. 08. 25. 13:08:00] Hiba a lekérés során: Cannot read properties of undefined (reading 'padStart')
+[2025. 08. 25. 13:09:00] Hiba a lekérés során: Cannot read properties of undefined (reading 'padStart')
+[2025. 08. 25. 13:10:00] Hiba a lekérés során: Cannot read properties of undefined (reading 'padStart')
+[2025. 08. 25. 13:11:29] Hiba a lekérés során: Cannot read properties of undefined (reading 'padStart')
+[2025. 08. 25. 13:12:29] Hiba a lekérés során: Cannot read properties of undefined (reading 'padStart')
+[2025. 08. 25. 13:13:29] Hiba a lekérés során: Cannot read properties of undefined (reading 'padStart')
+[2025. 08. 25. 13:14:29] Hiba a lekérés során: Cannot read properties of undefined (reading 'padStart')
+[2025. 08. 25. 13:15:29] Hiba a lekérés során: Cannot read properties of undefined (reading 'padStart')
+[2025. 08. 25. 13:16:29] Hiba a lekérés során: Cannot read properties of undefined (reading 'padStart')
+[2025. 08. 25. 14:21:51] Hiba a lekérés során: Cannot read properties of undefined (reading 'appointmentDate')
+[2025. 08. 25. 14:25:00] Hiba a lekérés során: Cannot read properties of undefined (reading 'appointmentDate')
+[2025. 08. 25. 14:26:00] Hiba a lekérés során: Cannot read properties of undefined (reading 'appointmentDate')
+[2025. 08. 25. 14:28:09] Hiba a lekérés során: Cannot read properties of undefined (reading 'split')
+[2025. 08. 25. 14:29:08] Hiba a lekérés során: Cannot read properties of undefined (reading 'split')
+[2025. 08. 25. 14:30:08] Hiba a lekérés során: Cannot read properties of undefined (reading 'split')
+[2025. 08. 25. 14:30:21] Hiba a lekérés során: Cannot read properties of undefined (reading 'split')
+[2025. 08. 25. 14:32:59] Hiba a lekérés során: Cannot read properties of undefined (reading 'padStart')
+[2025. 08. 25. 14:33:58] Hiba a lekérés során: Cannot read properties of undefined (reading 'padStart')
+[2025. 08. 26. 08:06:50] Hiba a lekérés során: request to https://oauth2.googleapis.com/token failed, reason: getaddrinfo ENOTFOUND oauth2.googleapis.com
+[2025. 08. 26. 11:48:33] Hiba a lekérés során: Cannot read properties of undefined (reading 'split')
+[2025. 08. 26. 11:49:30] Hiba a lekérés során: Cannot read properties of undefined (reading 'split')
+[2025. 08. 26. 11:50:30] Hiba a lekérés során: Cannot read properties of undefined (reading 'split')
+[2025. 08. 26. 11:52:39] Hiba a lekérés során: Cannot read properties of undefined (reading 'split')
+[2025. 08. 26. 11:53:39] Hiba a lekérés során: Cannot read properties of undefined (reading 'split')
+[2025. 08. 26. 13:41:01] Hiba a lekérés során: getEventIdFromSheet is not defined
+[2025. 08. 26. 13:42:00] Hiba a lekérés során: getEventIdFromSheet is not defined
+[2025. 08. 26. 13:48:16] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 13:49:19] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 13:49:57] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 13:50:56] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 13:52:01] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 13:53:31] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 13:54:08] Hiba á lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 13:54:35] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 13:55:34] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 13:56:35] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 13:56:46] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 13:57:28] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 13:58:01] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 13:59:02] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 14:01:17] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 14:01:38] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 14:03:08] Hiba a lekérés során: getEventId is not defined
+[2025. 08. 26. 14:04:06] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 14:05:05] Hiba a lekérés során: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received an instance of Object
+[2025. 08. 26. 14:54:07] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 14:55:08] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 14:56:08] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 14:57:08] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 14:58:07] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 14:59:07] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 15:00:08] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 15:01:07] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 15:02:07] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 15:03:07] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 15:04:08] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 15:05:07] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 15:06:07] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 15:07:07] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 15:08:07] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 15:09:07] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 26. 15:10:07] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 27. 09:01:39] Hiba a lekérés során: getEventId is not defined
+[2025. 08. 27. 09:02:12] Hiba a lekérés során: Cannot access 'id' before initialization
+[2025. 08. 27. 09:04:06] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 27. 09:05:06] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 27. 09:08:10] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 27. 09:09:01] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 27. 09:10:02] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 27. 09:11:01] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 27. 09:12:02] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 27. 09:13:02] Hiba a lekérés során: Cannot read properties of undefined (reading 'id')
+[2025. 08. 27. 11:37:10] Hiba a lekérés során: Invalid time value
+[2025. 08. 27. 11:38:07] Hiba a lekérés során: Invalid time value
+[2025. 08. 27. 11:39:07] Hiba a lekérés során: Invalid time value
+[2025. 08. 27. 11:44:05] Hiba a lekérés során: Invalid time value

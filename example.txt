@@ -1,0 +1,7 @@
+const events = [
+    eventDay:2018.01.01 // a munkalap neve, kombinálva, az A oszloppal
+    startDate:8:00 //B oszlop tartalmazhatja, nem biztos h benne van, de ha szerepel akkor igy "8:00-12:00" vagy "8-12"- vagy ezek barmelyik varriacioja
+    endDate:12:00 // szinten b oszlop, az elobbi pelda stringek utolso tagja.
+    location:xx //f oszlop.
+    title: asd //B oszlop time range utani stringje
+]
