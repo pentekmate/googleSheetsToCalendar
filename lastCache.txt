@@ -1,4 +1,4 @@
-[2025. 08. 28. 09:46:03]
+[2025. 08. 29. 12:40:08]
 [
   {
     "sheetTitle": "2025.08",
@@ -9,7 +9,7 @@
     "endDate": null,
     "location": "Óvoda utca, aula",
     "title": "Alakuló értekezlet",
-    "id": "e5220062564e69cf83f7a6eb2c041e5cb"
+    "id": "e5175bc7a8ea4c9d6c1b1ba33c89d96a1"
   },
   {
     "sheetTitle": "2025.08",
@@ -20,7 +20,7 @@
     "endDate": null,
     "location": "Óvoda utca, aula",
     "title": "Munkaközösségi megbeszélések",
-    "id": "e90bd29cc181b828ae54d31c09874089f"
+    "id": "efd16aa4497ad5d1d9bdb37c793cbf9a7"
   },
   {
     "sheetTitle": "2025.08",
@@ -31,7 +31,7 @@
     "endDate": null,
     "location": "Óvoda utca, aula",
     "title": "Órarendkészítő team megbeszélés",
-    "id": "eed1bfc92d39193123ed9f292e36072bd"
+    "id": "e6c666a94d551a7c50dc89906b8687098"
   },
   {
     "sheetTitle": "2025.08",
@@ -42,7 +42,7 @@
     "endDate": null,
     "location": "Óvoda utca, aula",
     "title": "Kibővített iskolavezetőségi értekezlet",
-    "id": "ec468657674dda0f937ef0c5eb44fc90e"
+    "id": "e18b490c251e1334fac3a737503477ddc"
   },
   {
     "sheetTitle": "2025.08",
@@ -53,7 +53,7 @@
     "endDate": null,
     "location": "Telephelyek",
     "title": "Osztályozóvizsgák",
-    "id": "efc91dc3d65adcf9123106c3402273770"
+    "id": "eae1a30f29a67326fdc25c418de165042"
   },
   {
     "sheetTitle": "2025.08",
@@ -64,7 +64,7 @@
     "endDate": null,
     "location": "Telephelyek",
     "title": "Osztályozóvizsgák",
-    "id": "e8af3edb2998c77caa754ec66b7304ce0"
+    "id": "eedfee1d9d557145c636df76d3541eeb9"
   },
   {
     "sheetTitle": "2025.08",
@@ -75,7 +75,7 @@
     "endDate": null,
     "location": "Telephelyek",
     "title": "Osztályozóvizsgák",
-    "id": "e5c5d61f06ec89f9e726e86ee5ba321b2"
+    "id": "e5aea19c355d9b380a5f38354f1e95fff"
   },
   {
     "sheetTitle": "2025.08",
@@ -86,7 +86,7 @@
     "endDate": null,
     "location": "Telephelyek",
     "title": "Osztályozóvizsgák",
-    "id": "ed8597243f9fb2e3033dc8a99ed93c164"
+    "id": "ecfa5e9268aee71bb61ddba10a243eb6a"
   },
   {
     "sheetTitle": "2025.08",
@@ -97,7 +97,7 @@
     "endDate": null,
     "location": "Telephelyek",
     "title": "Osztályozóvizsgák",
-    "id": "e5ca7da1e3656ac5fb9b263a89c521a59"
+    "id": "ef34b092773ec1a8ed7fd8ef8f8bd5d97"
   },
   {
     "sheetTitle": "2025.08",
@@ -108,7 +108,7 @@
     "endDate": null,
     "location": "Telephelyek",
     "title": "Osztályozóvizsgák",
-    "id": "ef797d8e2df98ddf67230f56bc04dbe60"
+    "id": "ed09699516ab2727d7578095b25469e33"
   },
   {
     "sheetTitle": "2025.08",
@@ -119,7 +119,7 @@
     "endDate": null,
     "location": "Telephelyek",
     "title": "Osztályozóvizsgák",
-    "id": "ec4a85d34c9b0966ad865ce3458bf721b"
+    "id": "e3c8a27662341fa87bb099d2ffbdda44a"
   },
   {
     "sheetTitle": "2025.08",
@@ -130,7 +130,7 @@
     "endDate": null,
     "location": "Telephelyek",
     "title": "Osztályozóvizsgák",
-    "id": "e8fdacf95d1d019797fa5d1a485cba1a7"
+    "id": "e026c32eb297825c9d2a724847b7290ff"
   },
   {
     "sheetTitle": "2025.08",
@@ -141,7 +141,7 @@
     "endDate": null,
     "location": "Óvoda utca, aula (Iskola utcának is), Magyar utca nevelői szoba, Polgári utca nevelői szoba, AMI: Óvoda u.001.",
     "title": "Telephelyi megbeszélések",
-    "id": "e084f242ae96d1b27c5e09bbc80da7545"
+    "id": "e75e526c0b9c5d9b9fed971e33a0f708f"
   },
   {
     "sheetTitle": "2025.08",
@@ -152,7 +152,7 @@
     "endDate": null,
     "location": "Telephelyek",
     "title": "Javítóvizsga",
-    "id": "e6a5ffbe13fa32a674a9fb07873425ce8"
+    "id": "ed21a5cba2404cdacc322590d294242e5"
   },
   {
     "sheetTitle": "2025.08",
@@ -163,7 +163,7 @@
     "endDate": null,
     "location": "Telephelyek",
     "title": "Javítóvizsga",
-    "id": "e77225958002e34bc631682215bfeda32"
+    "id": "e82816e7de1fbc6f1d8c944a96631fdb8"
   },
   {
     "sheetTitle": "2025.08",
@@ -174,7 +174,7 @@
     "endDate": "12:00",
     "location": "Iskola u., Magyar u., Polgári u.",
     "title": "Manósuli",
-    "id": "ed5148d8fb93f00d75b64b2793a5de51c"
+    "id": "e2c97e7b73c6b559179194b7d10ca716d"
   },
   {
     "sheetTitle": "2025.08",
@@ -185,7 +185,7 @@
     "endDate": "12:00",
     "location": "Iskola u., Magyar u., Polgári u.",
     "title": "Manósuli",
-    "id": "e9f130842f46bd6ded898c860ef460a4e"
+    "id": "ee6c0a2b367d425c413e3bce4000a7a2e"
   },
   {
     "sheetTitle": "2025.08",
@@ -196,29 +196,29 @@
     "endDate": "12:00",
     "location": "Iskola u., Magyar u., Polgári u.",
     "title": "Manósuli",
-    "id": "ea94dd6a4f929577c5318679321694f54"
+    "id": "e8ea08156df50db15dd1d408135417470"
   },
   {
     "sheetTitle": "2025.08",
     "rowIndex": 9,
     "pieceIndex": 0,
     "eventDay": "2025.08.26",
-    "startDate": "10:00",
+    "startDate": null,
     "endDate": null,
-    "location": "Tóth Árpád Gimnázium\n4024 Debrecen,\nSzombathi István utca 12.",
-    "title": "Vármegyei tanévnyitó konferencia",
-    "id": "e168c20d1c62ae185694db5da24b5c8ae"
+    "location": "Kollégium",
+    "title": "Kollégiumi munkaközösség gyűlése",
+    "id": "ee3f279f08c0e50e55866ba88b9653ba4"
   },
   {
     "sheetTitle": "2025.08",
     "rowIndex": 10,
     "pieceIndex": 0,
-    "eventDay": "2025.08.27",
-    "startDate": "08:00",
+    "eventDay": "2025.08.26",
+    "startDate": "10:00",
     "endDate": null,
-    "location": "Óvoda u. 2-10., 109. terem",
-    "title": "Megbeszélés az iskolatitkárok részére",
-    "id": "edf0e929394f147c61730833b403fdfeb"
+    "location": "Tóth Árpád Gimnázium\n4024 Debrecen,\nSzombathi István utca 12.",
+    "title": "Vármegyei tanévnyitó konferencia",
+    "id": "e3aa4d8f32bacf1f4093fded986c56551"
   },
   {
     "sheetTitle": "2025.08",
@@ -227,20 +227,20 @@
     "eventDay": "2025.08.27",
     "startDate": "08:00",
     "endDate": null,
-    "location": "Óvoda utca 110.",
-    "title": "Természettudományi munkaközösség gyűlés",
-    "id": "ebe009beaf613c5e9fd639901cd754ca9"
+    "location": "Óvoda u. 2-10., 109. terem",
+    "title": "Megbeszélés az iskolatitkárok részére",
+    "id": "e0ce260ff560a2a82262b4533f61047a4"
   },
   {
     "sheetTitle": "2025.08",
     "rowIndex": 12,
     "pieceIndex": 0,
     "eventDay": "2025.08.27",
-    "startDate": "09:00",
+    "startDate": "08:00",
     "endDate": null,
-    "location": "Óvoda u. 2-10., 109. terem",
-    "title": "Megbeszélés a DÖK-segítő pedagógusok részére",
-    "id": "efc89c96050b00fed298b85aae422fa36"
+    "location": "Óvoda utca 110.",
+    "title": "Természettudományi munkaközösség gyűlés",
+    "id": "efc623520b6681171ffb399d3110f1054"
   },
   {
     "sheetTitle": "2025.08",
@@ -249,130 +249,152 @@
     "eventDay": "2025.08.27",
     "startDate": "09:00",
     "endDate": null,
-    "location": "Óvoda utca 2-10. 107. terem",
-    "title": "Testnevelés munkaközösségi gyűlés",
-    "id": "ed3c3b0331688f39a34f9e5c776e44c81"
+    "location": "Óvoda u. 2-10., 109. terem",
+    "title": "Megbeszélés a DÖK-segítő pedagógusok részére",
+    "id": "e9986fb53029658af4ef5ad46adf8fe70"
   },
   {
     "sheetTitle": "2025.08",
     "rowIndex": 14,
     "pieceIndex": 0,
     "eventDay": "2025.08.27",
-    "startDate": "11:00",
+    "startDate": "09:00",
     "endDate": null,
-    "location": "Óvoda utca 2-10. 109. terem",
-    "title": "Idegen nyelvi munkaközösség megbeszélése",
-    "id": "e09b691f814d2b79384b946fbf65fd9fe"
+    "location": "Óvoda utca 2-10. 107. terem",
+    "title": "Testnevelés munkaközösségi gyűlés",
+    "id": "e578101f2c9bdf44d5855286661b8fcac"
   },
   {
     "sheetTitle": "2025.08",
     "rowIndex": 15,
     "pieceIndex": 0,
-    "eventDay": "2025.08.28",
-    "startDate": "09:00",
+    "eventDay": "2025.08.27",
+    "startDate": "11:00",
     "endDate": null,
-    "location": "Magyar utca, magyar terem",
-    "title": "Alsós munkaközösségi gyűlés",
-    "id": "ee203d21ec632c4d8a7ab0ec72f9be691"
+    "location": "Óvoda utca 2-10. 109. terem",
+    "title": "Idegen nyelvi munkaközösség megbeszélése",
+    "id": "e9a57537c798588e55f55bf271a6346ec"
   },
   {
     "sheetTitle": "2025.08",
     "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.08.28",
-    "startDate": "11:00",
+    "startDate": "09:00",
     "endDate": null,
-    "location": "Óvoda utca, 8. terem",
-    "title": "00 Humán munkaközösség gyűlése",
-    "id": "ed2b8e4d37ea7777c7bf3e16fae574704"
+    "location": "Magyar utca, magyar terem",
+    "title": "Alsós munkaközösségi gyűlés",
+    "id": "e18cd280be02c46607fa7437c62771b59"
   },
   {
     "sheetTitle": "2025.08",
     "rowIndex": 17,
     "pieceIndex": 0,
     "eventDay": "2025.08.28",
-    "startDate": "11:45",
-    "endDate": "12:30",
+    "startDate": "11:00",
+    "endDate": null,
     "location": "Óvoda utca, 8. terem",
-    "title": "Felsős nevelési munkaközösség gyűlése",
-    "id": "eb203443d9f49d4e91c65b3db650dd392"
+    "title": "00 Humán munkaközösség gyűlése",
+    "id": "e7500a60e1e9f4f4c68e46ffd66a2714a"
   },
   {
     "sheetTitle": "2025.08",
     "rowIndex": 18,
     "pieceIndex": 0,
     "eventDay": "2025.08.28",
-    "startDate": "17:00",
-    "endDate": null,
-    "location": "Óvoda utca, aula",
-    "title": "Szülői értekezlet - új hangszeresek és képzősök",
-    "id": "eb3d8fdd86a665ae0a32cab6b2deda358"
+    "startDate": "11:45",
+    "endDate": "12:30",
+    "location": "Óvoda utca, 8. terem",
+    "title": "Felsős nevelési munkaközösség gyűlése",
+    "id": "e0fcd67e8e33ba9f6810bc66c1be337f2"
   },
   {
     "sheetTitle": "2025.08",
     "rowIndex": 19,
     "pieceIndex": 0,
     "eventDay": "2025.08.28",
-    "startDate": "16:00",
-    "endDate": "18:00",
-    "location": "intézményegységek",
-    "title": "Elsősök \"beköltözése\"",
-    "id": "e6bf00a6372da36a97b4b161a4a515e2e"
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Óvoda utca, aula",
+    "title": "Szülői értekezlet - új hangszeresek és képzősök",
+    "id": "e73960b90ef186ddca465eae0921242f1"
   },
   {
     "sheetTitle": "2025.08",
-    "rowIndex": 19,
+    "rowIndex": 20,
     "pieceIndex": 0,
-    "eventDay": "2025.08.29",
+    "eventDay": "2025.08.28",
     "startDate": "16:00",
     "endDate": "18:00",
     "location": "intézményegységek",
     "title": "Elsősök \"beköltözése\"",
-    "id": "e3e555f13ee6f6d021a349e63d50f3698"
+    "id": "e3a45f938ca6a066c33850d7db29ff8db"
   },
   {
     "sheetTitle": "2025.08",
     "rowIndex": 20,
     "pieceIndex": 0,
     "eventDay": "2025.08.29",
-    "startDate": "08:30",
-    "endDate": null,
-    "location": "Óvoda u., aula",
-    "title": "Tanévnyitó értekezlet",
-    "id": "e8bb2cb9ecc03ea8a68a6239f0a198bc1"
+    "startDate": "16:00",
+    "endDate": "18:00",
+    "location": "intézményegységek",
+    "title": "Elsősök \"beköltözése\"",
+    "id": "eb02a1d09bff7da204f3cdfa6b658362b"
   },
   {
     "sheetTitle": "2025.08",
     "rowIndex": 21,
     "pieceIndex": 0,
     "eventDay": "2025.08.29",
-    "startDate": null,
+    "startDate": "09:00",
     "endDate": null,
-    "location": "Óvoda utca 105. terem",
-    "title": "Matematika-informatika munkaközösség gyűlése - a Tanévnyitó értekezlet után",
-    "id": "ed9527ef0aa3ddb2ac7703af99233ee4c"
+    "location": "Óvoda u., aula",
+    "title": "Tanévnyitó értekezlet",
+    "id": "eb28905ab298fa7465f45c2ef0e49590f"
   },
   {
     "sheetTitle": "2025.08",
     "rowIndex": 22,
+    "pieceIndex": 0,
+    "eventDay": "2025.08.29",
+    "startDate": null,
+    "endDate": null,
+    "location": "Óvoda utca 105. terem",
+    "title": "Matematika-informatika munkaközösség gyűlése - a Tanévnyitó értekezlet után",
+    "id": "e16016d3a7069bcda7b237013c979ab1f"
+  },
+  {
+    "sheetTitle": "2025.08",
+    "rowIndex": 23,
+    "pieceIndex": 0,
+    "eventDay": "2025.08.29",
+    "startDate": null,
+    "endDate": null,
+    "location": "Óvoda utca aula",
+    "title": "Kiemelt figyelmet igénylő gy. mk.",
+    "id": "ed19e6fe25f15a5a8020a48cf13a64c80"
+  },
+  {
+    "sheetTitle": "2025.08",
+    "rowIndex": 24,
     "pieceIndex": 0,
     "eventDay": "2025.08.31",
     "startDate": null,
     "endDate": null,
     "location": "Baross u.",
     "title": "Beköltözés a kollégiumba",
-    "id": "e14fa1cbd2004082bfce6c64204863406"
+    "id": "ecfa308cf9d6ec74d1736b28593032eb4"
   },
   {
     "sheetTitle": "2025.08",
-    "rowIndex": 22,
+    "rowIndex": 24,
     "pieceIndex": 1,
     "eventDay": "2025.08.31",
     "startDate": null,
     "endDate": null,
     "location": "Baross u.",
     "title": "Szülői értekezlet 15 órától",
-    "id": "e9a9a41e938c0f19dfa5124d7e5c682d0"
+    "id": "ebfd99908059c428ccb6acb907da78b9b"
   },
   {
     "sheetTitle": "2025.09",
@@ -383,469 +405,458 @@
     "endDate": null,
     "location": "",
     "title": "Ünnepélyes tanévnyitó",
-    "id": "efc874cc626a97ad5a27db49069d5a867"
+    "id": "eb36ebeb13b11d71272ad385fb6be44d4"
   },
   {
     "sheetTitle": "2025.09",
     "rowIndex": 5,
-    "pieceIndex": 0,
-    "eventDay": "2025.09.01",
-    "startDate": "12:00",
-    "endDate": null,
-    "location": "Baross utca 11/A emelet, igazgatói tárgyaló",
-    "title": "45 Kiemelt figyelmet igényló gyerekek",
-    "id": "e9902c80f4e9862290c17010a8ce9e032"
-  },
-  {
-    "sheetTitle": "2025.09",
-    "rowIndex": 5,
-    "pieceIndex": 1,
-    "eventDay": "2025.09.01",
-    "startDate": null,
-    "endDate": null,
-    "location": "Baross utca 11/A emelet, igazgatói tárgyaló",
-    "title": "munkaközösségi megbeszélés",
-    "id": "e8136ecdfe3339fbef7200722fd5de015"
-  },
-  {
-    "sheetTitle": "2025.09",
-    "rowIndex": 6,
     "pieceIndex": 0,
     "eventDay": "2025.09.02",
     "startDate": "17:00",
     "endDate": null,
     "location": "Óvoda u. aula",
     "title": "AMI tanévnyitó ünnepség",
-    "id": "eea97488a840fc808faa47c16fb11dbfd"
+    "id": "eef18231aad7a41dd9ad8356a6ff124f4"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 7,
+    "rowIndex": 6,
     "pieceIndex": 0,
     "eventDay": "2025.09.03",
     "startDate": "17:00",
     "endDate": null,
     "location": "",
     "title": "Első osztályos  szülői értekezletek",
-    "id": "ed3b5be211224ae919cce881dc1a15c6b"
+    "id": "e255e0bece55bc9d24482d01f306c7764"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 8,
+    "rowIndex": 7,
     "pieceIndex": 0,
     "eventDay": "2025.09.04",
     "startDate": "16:30",
     "endDate": null,
     "location": "",
     "title": "Mérési munkaközösség gyűlése",
-    "id": "ef973da92363c1f184240d6345e10c67e"
+    "id": "e72550bfe5d89173ca3ebcd7a1ac63b74"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 9,
+    "rowIndex": 8,
     "pieceIndex": 0,
     "eventDay": "2025.09.08",
     "startDate": null,
     "endDate": null,
     "location": "Polgári u. 71.",
     "title": "Hulladékgyűjtés (Polgári utca)",
-    "id": "e64641b95f801a762280e7909f3af5978"
+    "id": "ece07592c6efbd1a079c7e46f5b880423"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 10,
+    "rowIndex": 9,
     "pieceIndex": 0,
     "eventDay": "2025.09.08",
     "startDate": "16:00",
     "endDate": null,
     "location": "Iskola u. 3.",
     "title": "Fogadóóra",
-    "id": "e0e3c30eb089a3e60373824234ef7fbee"
+    "id": "e05b3ae61f0b35b1d981beb0e6ad0f59e"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 10,
+    "rowIndex": 9,
     "pieceIndex": 1,
     "eventDay": "2025.09.08",
     "startDate": "17:00",
     "endDate": null,
     "location": "Iskola u. 3.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "ea355bea503f79b7925e2257a0728a8dd"
+    "id": "ed72b6be396d8016e66504cc1da8d1cb3"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 11,
+    "rowIndex": 10,
     "pieceIndex": 0,
     "eventDay": "2025.09.09",
     "startDate": null,
     "endDate": null,
     "location": "Iskola utca",
     "title": "Hulladékgyűjtés (Óvoda utca)",
-    "id": "efb03c18b8faa540bb14a893339e89442"
+    "id": "e7ea1b2c5b82812816d5ce1ed1277ac2e"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 12,
+    "rowIndex": 11,
     "pieceIndex": 0,
     "eventDay": "2025.09.09",
     "startDate": "16:00",
     "endDate": null,
     "location": "Magyar u. 104.",
     "title": "Fogadóóra",
-    "id": "e13cd72d39fc12b2e839daddb931166d4"
+    "id": "e7069057aeeeb731d29ba7fcc66da04cc"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 12,
+    "rowIndex": 11,
     "pieceIndex": 1,
     "eventDay": "2025.09.09",
     "startDate": "17:00",
     "endDate": null,
     "location": "Magyar u. 104.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "e501a4cdaccc8037a5c7dcf399d060310"
+    "id": "e7b2592ca5576c719903b92e09b83dbc7"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 13,
+    "rowIndex": 12,
     "pieceIndex": 0,
     "eventDay": "2025.09.10",
     "startDate": null,
     "endDate": null,
     "location": "Iskola u.",
     "title": "Hulladékgyűjtés (Iskola u.)",
-    "id": "e7d89eb25f1625545b0af1423a6615bba"
+    "id": "ef733167fbfbe6f3d8e32e1b7097d3b5a"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 14,
+    "rowIndex": 13,
     "pieceIndex": 0,
     "eventDay": "2025.09.10",
     "startDate": "16:00",
     "endDate": null,
     "location": "Óvoda u. 2-10.",
     "title": "Fogadóóra",
-    "id": "e379ac27453d0381d5c4b03a168f06a17"
+    "id": "eaa05344bf47d0084af6d7697edea94bf"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 14,
+    "rowIndex": 13,
     "pieceIndex": 1,
     "eventDay": "2025.09.10",
     "startDate": "17:00",
     "endDate": null,
     "location": "Óvoda u. 2-10.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "ecc45a9bb5a4dc99b1e6b7cbc4ebaedba"
+    "id": "efc234bb8bfe6642658e918a635b27cbd"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 15,
+    "rowIndex": 14,
     "pieceIndex": 0,
     "eventDay": "2025.09.11",
     "startDate": null,
     "endDate": null,
     "location": "Magyar u. 104.",
     "title": "Hulladékgyűjtés (Magyar u.)",
-    "id": "e560774f2e6ab35adab7987860a8ced5e"
+    "id": "e04f9b0fd99e54a2ef2d0c3807888f72d"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 16,
+    "rowIndex": 15,
     "pieceIndex": 0,
     "eventDay": "2025.09.11",
     "startDate": "16:00",
     "endDate": null,
     "location": "Polgári u. 71.",
     "title": "Fogadóóra",
-    "id": "efd47019005ea35d15f409dadf9bc6295"
+    "id": "efc987d05372822ebf6dd0b548a953d5c"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 16,
+    "rowIndex": 15,
     "pieceIndex": 1,
     "eventDay": "2025.09.11",
     "startDate": "17:00",
     "endDate": null,
     "location": "Polgári u. 71.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "e7ad2aa9ae3e6d12e5e32c4358030f7e5"
+    "id": "e5ae259606580876f6ba89b4c9574b063"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.15",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e009a9c87283f7ba8417e5c133f8579a6"
+    "id": "ed381bcd30f60e9ab1fe93f351cef716b"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.16",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e00531589623a273a57c473536a570e04"
+    "id": "e0921077547fed076de35c926237bf7c2"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.17",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "ea1dc3f1edf1234daba4379546b5eb87c"
+    "id": "e28c312e5a60da5d42a06acff7bfbd8af"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.18",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "eda8500f6dc1d8f8023994e3e76a23608"
+    "id": "e94a39b528f78d954c157b16ca58a9d3b"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.19",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "ef2e924a960182f17afacc96559174404"
+    "id": "e0c07321b1dd71bda2ec31d8b53343f32"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.20",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "ef6c87f4434dd53608e1a39cdf6bf93b2"
+    "id": "e50b0670013949ea2634c697854d22f2a"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.21",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "eeb06f6b201a094b3c166052be9dc011f"
+    "id": "e003ee38bc60aafe4b09c6be5e161c3a4"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.22",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e8a50ed986c4c95602f189afaeb32546d"
+    "id": "ea5c2058e0292fc270ac0d0acd2041649"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.23",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e89d94bd31215a27755c5d3e997ff7635"
+    "id": "e45d2ebdb0092ec4493a045f95af319b4"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.24",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "eb02990d8005a514d986582d730327a7d"
+    "id": "ec3b0cc989921598969aa456398065d84"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.25",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e941e89f80b11a1931978e4f85f3445e0"
+    "id": "e51f84e6e5df69d13cd3330d440f34636"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.26",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e703d4bf063b80d477a7f683c4b736585"
+    "id": "e94ca71c625914f39199217cee51195b3"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.27",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e3ff335016884998ed5f41e9f686b1e1c"
+    "id": "e9339c963b0dc6b09f8548047ed13d56a"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.28",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e756cfda7e8c539057d6977bcb227c9a6"
+    "id": "e0efd78533eb45e87cf8654fabf054ca5"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.29",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e80b72d90aebaafeb08dc594a7a8db930"
+    "id": "efe679525c4d5e7d6149e7e287ab3e70e"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.09.30",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "edcedbc714d8ffee6c61f174b4499fbd5"
+    "id": "e4ae584a68ebe705c4c30f2beefd806de"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.10.01",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e880bdc52918d23d574f6f0896b93f4d4"
+    "id": "e2035b5901a4ed055e8b72f064862a650"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.10.02",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e3cac0c5a02c3c7c270aba80873dce08b"
+    "id": "ed3aa41119fe9c923fcc073bcbe3b7b7a"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.10.03",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e927caa15eb2965818f38005aad6a17b7"
+    "id": "e2c3bce8984240a3f71e1f41a2545924c"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.10.04",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "eabfc22abcd4ff9bd004ce04e742624f5"
+    "id": "eda8eb6fda262dbc9015dc41aa5185c61"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.10.05",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "efa8f648dec13cc4cf8d42ed9bc280133"
+    "id": "ea2c6f3bbf7c72d263397426eb54d94d8"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.10.06",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e29336c823b17a9ab9733c29fb96b6be8"
+    "id": "e8ae9ad274b21fbb8927a5af8dea461f2"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.10.07",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e927f9bd4b3cc1b87655b889ec2c5d6f3"
+    "id": "e3ac2e46cfa3e595e5fb948230b9477bc"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.10.08",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "eed23ae85a63b145ca44adc0a67150e27"
+    "id": "e5d8c94ca503f01c9849a69d3d5be6907"
   },
   {
     "sheetTitle": "2025.09",
-    "rowIndex": 17,
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.10.09",
     "startDate": null,
     "endDate": null,
     "location": "Óvoda, Polgári, Magyar u.",
     "title": "Pályaorientációs mérés 8. évf.",
-    "id": "e8143c525dc306cbcb4e9db974d5b3faa"
+    "id": "e3455433b80b0d5501ff8d34317c2cce4"
+  },
+  {
+    "sheetTitle": "2025.09",
+    "rowIndex": 17,
+    "pieceIndex": 0,
+    "eventDay": "2025.09.15",
+    "startDate": "13:00",
+    "endDate": null,
+    "location": "Nagy Norbert Sportközpont",
+    "title": "45 Körzeti mezei futóverseny",
+    "id": "e4d562a6a3ef966acedb0f50f606c4115"
   },
   {
     "sheetTitle": "2025.09",
@@ -856,7 +867,7 @@
     "endDate": null,
     "location": "Iskola u., Magyar u., Polgári u. Baross u.",
     "title": "Alsós szülői értekezletek (2-4.o. és SNI-A)",
-    "id": "efc7371c511ba5feeb9a8ec47cc574f83"
+    "id": "e4f5aa43c5818e7e6658025d651447fdf"
   },
   {
     "sheetTitle": "2025.09",
@@ -867,7 +878,7 @@
     "endDate": null,
     "location": "Óvoda u., Magyar u., Polgári u. Baross u.",
     "title": "Felsős szülői értekezletek (5-8..o. és SNI-F)",
-    "id": "e3a10ae1b8bb6e4844dac5578a497523f"
+    "id": "e15e213104981e78e0483c216bae39654"
   },
   {
     "sheetTitle": "2025.09",
@@ -878,7 +889,7 @@
     "endDate": "16:00",
     "location": "Északi ASzC Széchenyi István Mezőgazdasági és Élelmiszeripari Technikum, Szakképző Iskola és Kollégium",
     "title": "Pályaorientációs Tájékoztató Napok 2025",
-    "id": "ea97842cc12a57eec751d9ed80eaef4b8"
+    "id": "e8f3cf1fabdb532d53589d545aeec6e31"
   },
   {
     "sheetTitle": "2025.09",
@@ -889,7 +900,7 @@
     "endDate": null,
     "location": "Óvoda u., aula",
     "title": "Szülői munkaközösségi megbeszélés",
-    "id": "ea6a1369f13f66f1881faafb3b01ea99c"
+    "id": "e83eee0315ab35f392e37d3eadd04e910"
   },
   {
     "sheetTitle": "2025.09",
@@ -900,7 +911,7 @@
     "endDate": null,
     "location": "",
     "title": "Szakmai nap (1. tanítás nélküli munkanap)",
-    "id": "eadfc3432f2e18be2a35c66c2e6d13a29"
+    "id": "e80e18c15db2b152363def9cda824e5b4"
   },
   {
     "sheetTitle": "2025.09",
@@ -911,7 +922,7 @@
     "endDate": null,
     "location": "Telkibánya",
     "title": "Ásványgyűjtő kirándulás",
-    "id": "ef8101292ddadcd8d90f76e9de91b6910"
+    "id": "ef369f439630e6aed539eb9715493ce85"
   },
   {
     "sheetTitle": "2025.09",
@@ -921,8 +932,8 @@
     "startDate": null,
     "endDate": null,
     "location": "minden telephely",
-    "title": "Magyar Diáksport Napja",
-    "id": "ead3356486b85c9be4e6b7be97b777bcc"
+    "title": "ESSD és a Magyar Diáksport Napja",
+    "id": "edcbffe3cd96d18bb2a04dea66a51fae4"
   },
   {
     "sheetTitle": "2025.09",
@@ -933,7 +944,7 @@
     "endDate": null,
     "location": "Baross u.",
     "title": "Gyakornoki minősítővizsga",
-    "id": "ea22f08db0a0ec10d2b6382d53033884e"
+    "id": "eaec73c1808d01563afbddb645fdc1e6c"
   },
   {
     "sheetTitle": "2025.09",
@@ -944,7 +955,7 @@
     "endDate": null,
     "location": "Debreceni Egyetem",
     "title": "Kutatók Éjszakája",
-    "id": "e7bd6c57f3d8246573807f2af24179afa"
+    "id": "efb249f37bff0b18f8b84c3c1e1193f32"
   },
   {
     "sheetTitle": "2025.09",
@@ -955,7 +966,7 @@
     "endDate": null,
     "location": "minden telephely",
     "title": "A Világ legnagyobb tanórája",
-    "id": "e3f17246a6ff255e38d94313ddf2c43d9"
+    "id": "eacf821e44a5d318dc57fb10c64fe7814"
   },
   {
     "sheetTitle": "2025.09",
@@ -966,7 +977,7 @@
     "endDate": null,
     "location": "minden telephely",
     "title": "A Világ legnagyobb tanórája",
-    "id": "e22e5af83964e45f891cd9c909c797bec"
+    "id": "ed55f5c278a9a89491fad35825995229b"
   },
   {
     "sheetTitle": "2025.09",
@@ -977,7 +988,7 @@
     "endDate": null,
     "location": "minden telephely",
     "title": "A Világ legnagyobb tanórája",
-    "id": "e359315935af83749e2f830e169f968d9"
+    "id": "efb5cbaaedfb028520c0fbc40c34868b7"
   },
   {
     "sheetTitle": "2025.09",
@@ -988,7 +999,7 @@
     "endDate": null,
     "location": "minden telephely",
     "title": "A Világ legnagyobb tanórája",
-    "id": "e9daed3045a507aa5bec826a689125673"
+    "id": "eaeb8884addd7c11cfa5c0db4bc33001c"
   },
   {
     "sheetTitle": "2025.09",
@@ -999,7 +1010,7 @@
     "endDate": null,
     "location": "minden telephely",
     "title": "A Világ legnagyobb tanórája",
-    "id": "edeba28b52ac62391c0ce69b1c8a44f9c"
+    "id": "eef31f0174b0e0eb44ddcea2f1a521f59"
   },
   {
     "sheetTitle": "2025.10",
@@ -1010,18 +1021,18 @@
     "endDate": null,
     "location": "Iskola u.",
     "title": "Gyakornoki minősítővizsga",
-    "id": "eca94d96757fcb2bc156018a49827607e"
+    "id": "e07ca439727cbeb3b8d500f44253dee1d"
   },
   {
     "sheetTitle": "2025.10",
     "rowIndex": 5,
     "pieceIndex": 0,
     "eventDay": "2025.10.02",
-    "startDate": null,
+    "startDate": "17:00",
     "endDate": null,
     "location": "KCSSRG",
-    "title": "17.00. Zene világnapja",
-    "id": "e28ff34f1ae95ad95bdb6a06bb8a9d9c3"
+    "title": "Zene világnapja",
+    "id": "ef24250dd995821f5e8a6a81baf7e5eba"
   },
   {
     "sheetTitle": "2025.10",
@@ -1032,7 +1043,7 @@
     "endDate": null,
     "location": "KCSSRG",
     "title": "Tanári hangverseny",
-    "id": "ee5540c6c115027e7f0f1e5c9b6eb3943"
+    "id": "eefd4653ae53dcf79855a6a28482a7e24"
   },
   {
     "sheetTitle": "2025.10",
@@ -1043,7 +1054,7 @@
     "endDate": null,
     "location": "Iskola u., Magyar u., Polgári u.",
     "title": "Állati jó délután (Állatok Világnapja)",
-    "id": "ed76ccd6bcdb6f8abbb626c5731847608"
+    "id": "eb8a91971b1fea15a5b04aa63d43b555c"
   },
   {
     "sheetTitle": "2025.10",
@@ -1052,9 +1063,9 @@
     "eventDay": "2025.10.04",
     "startDate": null,
     "endDate": null,
-    "location": "Óvoda u. aula",
-    "title": "14.00.Cselló tábori koncert",
-    "id": "e4b2d479e61cda9c00206a0c17e0457ed"
+    "location": "Mozi",
+    "title": "Cselló tábori koncert",
+    "id": "e42ea250cc3e787d446285bad3beca48f"
   },
   {
     "sheetTitle": "2025.10",
@@ -1065,7 +1076,7 @@
     "endDate": null,
     "location": "Nagykálló",
     "title": "Kállai Kettős Néptáncfesztivál",
-    "id": "e447cb389e6a94d27b151bc0a133980e7"
+    "id": "e640bde1f28f7e358bc39eb4ecae6d3bd"
   },
   {
     "sheetTitle": "2025.10",
@@ -1076,7 +1087,7 @@
     "endDate": null,
     "location": "Nagykálló",
     "title": "Kállai Kettős Néptáncfesztivál",
-    "id": "eba2737b58fb5a9e7818e8a832d08c496"
+    "id": "eb3ab4c5004d8f289dbd5748ac18c1f3c"
   },
   {
     "sheetTitle": "2025.10",
@@ -1087,7 +1098,7 @@
     "endDate": null,
     "location": "Nagykálló",
     "title": "Kállai Kettős Néptáncfesztivál",
-    "id": "ed191eb862007c67330a75bb81f7fc9ec"
+    "id": "e4529319af30b0d152b7762034ce0cb2d"
   },
   {
     "sheetTitle": "2025.10",
@@ -1098,7 +1109,7 @@
     "endDate": null,
     "location": "",
     "title": "Október 6-i rádiós megemlékezés",
-    "id": "ef5a90edeb582877c2900e5266060c303"
+    "id": "eaaa400761cbfa6eba485f79122aa130f"
   },
   {
     "sheetTitle": "2025.10",
@@ -1109,7 +1120,7 @@
     "endDate": null,
     "location": "Köztársaság tér - Kossuth szobor",
     "title": "Városi megemlékezés - koszorúzás",
-    "id": "e7e2a007b81751b76cfe840c71e09700e"
+    "id": "e10de4d3e811ce1996c02e80219b033f5"
   },
   {
     "sheetTitle": "2025.10",
@@ -1120,7 +1131,7 @@
     "endDate": "12:30",
     "location": "Óvoda u., Baross u.",
     "title": "Felsős nyíltnap (órarend szerint)",
-    "id": "e16595df4ba4cedb38ed723b20c97cc30"
+    "id": "e169bfb1f29b292404cc06582b8fd4368"
   },
   {
     "sheetTitle": "2025.10",
@@ -1131,282 +1142,304 @@
     "endDate": "12:30",
     "location": "Polgári u.",
     "title": "Felsős nyíltnap (órarend szerint)",
-    "id": "ef628772b84e00950cc7dfa8e74c874fd"
+    "id": "ef0cdecfc9ec2995ab3dea525065821a1"
   },
   {
     "sheetTitle": "2025.10",
     "rowIndex": 13,
     "pieceIndex": 0,
-    "eventDay": "2025.10.09",
-    "startDate": "07:45",
-    "endDate": "12:30",
-    "location": "Magyar u.",
-    "title": "Felsős nyíltnap (órarend szerint)",
-    "id": "ee0e454c34dfee0af47b287da0a3d320a"
+    "eventDay": "2025.10.08",
+    "startDate": null,
+    "endDate": null,
+    "location": "Iskola utca 3.",
+    "title": "Bocskai Olimpia labdarúgó bajnokság",
+    "id": "e0c7a83159aa77df23bd77608e3a69ab3"
   },
   {
     "sheetTitle": "2025.10",
     "rowIndex": 14,
     "pieceIndex": 0,
     "eventDay": "2025.10.09",
-    "startDate": null,
-    "endDate": null,
-    "location": "Polgári u.",
-    "title": "Mesterprogram megújítás",
-    "id": "e070bf13832d750565f4dc4e9c564fa17"
+    "startDate": "07:45",
+    "endDate": "12:30",
+    "location": "Magyar u.",
+    "title": "Felsős nyíltnap (órarend szerint)",
+    "id": "e3759ed2cf1ebaa3a15db0311af9d4d0f"
   },
   {
     "sheetTitle": "2025.10",
     "rowIndex": 15,
+    "pieceIndex": 0,
+    "eventDay": "2025.10.09",
+    "startDate": null,
+    "endDate": null,
+    "location": "Polgári u.",
+    "title": "Mesterprogram megújítás",
+    "id": "ec2b1418e1a06496ece52112863cfc0ec"
+  },
+  {
+    "sheetTitle": "2025.10",
+    "rowIndex": 16,
     "pieceIndex": 0,
     "eventDay": "2025.10.10",
     "startDate": null,
     "endDate": null,
     "location": "",
     "title": "Kiértesítés az osztályozó vizsgákról (egyéni tanrend)",
-    "id": "e458121f7846ed5133d856489b92254dd"
+    "id": "edda9ca8ee202eda1ff1c24caab9e2d45"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 16,
+    "rowIndex": 17,
     "pieceIndex": 0,
     "eventDay": "2025.10.13",
     "startDate": "16:00",
     "endDate": null,
     "location": "Iskola u. 3.",
     "title": "Fogadóóra",
-    "id": "e8cccca69a1046a0560d7a36edee6beda"
+    "id": "e91acbbe70023d85a240e76a2955d4f0d"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 16,
+    "rowIndex": 17,
     "pieceIndex": 1,
     "eventDay": "2025.10.13",
     "startDate": "17:00",
     "endDate": null,
     "location": "Iskola u. 3.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "ea19a118125e72d6256f1f931760de587"
+    "id": "e2edf909b5361198e05e053a76b0380ea"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 17,
+    "rowIndex": 18,
     "pieceIndex": 0,
     "eventDay": "2025.10.14",
     "startDate": null,
     "endDate": null,
     "location": "",
     "title": "Pályaorientációs nap (2. tanítás nélküli munkanap)",
-    "id": "e5cbb123a7a48153ca39e69ae6b27c785"
+    "id": "e233e29b9189c28ed36a217a7e1a0d893"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 18,
+    "rowIndex": 19,
     "pieceIndex": 0,
     "eventDay": "2025.10.14",
     "startDate": "16:00",
     "endDate": null,
     "location": "Magyar u. 104.",
     "title": "Fogadóóra",
-    "id": "e1c696b5b8c0de9211250204ba037ed4e"
+    "id": "e962ac78f8232f7eb1edf2da28ca32ed2"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 18,
+    "rowIndex": 19,
     "pieceIndex": 1,
     "eventDay": "2025.10.14",
     "startDate": "17:00",
     "endDate": null,
     "location": "Magyar u. 104.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "ed88de1b3a8286d7eaa3881c7764834b6"
+    "id": "e2608f2235ca819b80c3ac5bde43561e3"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 19,
+    "rowIndex": 20,
     "pieceIndex": 0,
     "eventDay": "2025.10.15",
     "startDate": "07:45",
     "endDate": "11:30",
     "location": "Polgári u.",
     "title": "2-4. évf.nyílt nap (órarend szerint)",
-    "id": "e7a6a8d5d1077d862f779877c7f16d73d"
+    "id": "ef5f0adb0d40120c7c76c2a659cb3bc1e"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 20,
+    "rowIndex": 21,
     "pieceIndex": 0,
     "eventDay": "2025.10.15",
     "startDate": "16:00",
     "endDate": null,
     "location": "Óvoda u. 2-10.",
     "title": "Fogadóóra",
-    "id": "e0820c5ac0ae8de368307ef472c15108c"
+    "id": "ed1069f4229bfc2e2c7715aa32e50cf54"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 20,
+    "rowIndex": 21,
     "pieceIndex": 1,
     "eventDay": "2025.10.15",
     "startDate": "17:00",
     "endDate": null,
     "location": "Óvoda u. 2-10.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "edf921d0c47aa527032b55fa91edab23f"
+    "id": "ea01c9aa53179fad497722001faecd9e3"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 21,
+    "rowIndex": 22,
     "pieceIndex": 0,
     "eventDay": "2025.10.16",
     "startDate": "07:45",
     "endDate": "11:30",
     "location": "Magyar u.",
     "title": "2-4. évf.nyílt nap (órarend szerint)",
-    "id": "ebb26099a626dc2586cd270d3e594668a"
+    "id": "edf951286728b1d1504fc2706b20259d0"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 22,
+    "rowIndex": 23,
     "pieceIndex": 0,
     "eventDay": "2025.10.16",
     "startDate": "16:00",
     "endDate": null,
     "location": "Polgári u. 71.",
     "title": "Fogadóóra",
-    "id": "e8000e7ae877f4b3f6d50563fd648e464"
+    "id": "e0c2689cd48223632a6650dc7c3abab2c"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 22,
+    "rowIndex": 23,
     "pieceIndex": 1,
     "eventDay": "2025.10.16",
     "startDate": "17:00",
     "endDate": null,
     "location": "Polgári u. 71.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "ec36111fd64444a5b7699dc93250955d1"
+    "id": "e37cf1946c3db84e3ef2078de7745fc39"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 23,
+    "rowIndex": 24,
     "pieceIndex": 0,
     "eventDay": "2025.10.18",
     "startDate": null,
     "endDate": null,
     "location": "",
     "title": "Szakmai nap (2. tanítás nélküli munkanap)",
-    "id": "e96e097a7cd7ddf13e3996a05c04bf341"
+    "id": "e7afe29761ebf1e7e400f2ebaa379f38c"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 24,
+    "rowIndex": 25,
+    "pieceIndex": 0,
+    "eventDay": "2025.10.20",
+    "startDate": null,
+    "endDate": null,
+    "location": "Óvoda utca 2-10. aula",
+    "title": "Egészséges táplálkozás / diatetikus előadás /",
+    "id": "ebcd44a6583cddae801fcd1a9084dd9be"
+  },
+  {
+    "sheetTitle": "2025.10",
+    "rowIndex": 26,
     "pieceIndex": 0,
     "eventDay": "2025.10.22",
     "startDate": null,
     "endDate": null,
     "location": "Színházterem",
     "title": "Október 23-i ünnepség",
-    "id": "eb61783a3222c8bab28d835b85972f91c"
+    "id": "ec1a5dec7b4517b13df36172bdfb1a6f4"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 25,
+    "rowIndex": 27,
     "pieceIndex": 0,
     "eventDay": "2025.10.24",
     "startDate": null,
     "endDate": null,
     "location": "",
     "title": "pihenőnap",
-    "id": "ee733af6c0929b9764b707fcb10e9ff6a"
+    "id": "edfb60be54b3d33febe99f390eef2c3fa"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 26,
+    "rowIndex": 28,
     "pieceIndex": 0,
     "eventDay": "2025.10.27",
     "startDate": null,
     "endDate": null,
     "location": "",
     "title": "őszi szünet",
-    "id": "e52cd9b02275944ffa3d656fb40af583f"
+    "id": "e6d64cb3c2d321e01b819470bee1f8dd7"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 26,
+    "rowIndex": 28,
     "pieceIndex": 0,
     "eventDay": "2025.10.28",
     "startDate": null,
     "endDate": null,
     "location": "",
     "title": "őszi szünet",
-    "id": "e6e72d462b059fc53fc320359964ae10f"
+    "id": "e435711dca3573459331f7cc7ba774cc1"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 26,
+    "rowIndex": 28,
     "pieceIndex": 0,
     "eventDay": "2025.10.29",
     "startDate": null,
     "endDate": null,
     "location": "",
     "title": "őszi szünet",
-    "id": "e71932f8b3e07d7df1b6b7e106fcd8c66"
+    "id": "e63dcc735f21e2a2991d5d70a9a772bf0"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 26,
+    "rowIndex": 28,
     "pieceIndex": 0,
     "eventDay": "2025.10.30",
     "startDate": null,
     "endDate": null,
     "location": "",
     "title": "őszi szünet",
-    "id": "eea9b245fe4b4030c0fe2c6112c5e9423"
+    "id": "ee11cbdc003900a2467a232efc8182d3a"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 26,
+    "rowIndex": 28,
     "pieceIndex": 0,
     "eventDay": "2025.10.31",
     "startDate": null,
     "endDate": null,
     "location": "",
     "title": "őszi szünet",
-    "id": "ed5eaea1ff3d01684bcd1595563894303"
+    "id": "e837acf7a325356bbf2bf551564688d27"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 27,
+    "rowIndex": 29,
     "pieceIndex": 0,
     "eventDay": "2025.10.27",
     "startDate": null,
     "endDate": null,
     "location": "Nyíregyháza",
     "title": "Drámajáték-vezetés továbbképzési program (kötelező továbbképzés)",
-    "id": "ef095179a195540b746f2606f316357be"
+    "id": "ec05a6854339d22351240b2ed7f13f6d3"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 27,
+    "rowIndex": 29,
     "pieceIndex": 0,
     "eventDay": "2025.10.28",
     "startDate": null,
     "endDate": null,
     "location": "Nyíregyháza",
     "title": "Drámajáték-vezetés továbbképzési program (kötelező továbbképzés)",
-    "id": "e1e23d5b7ea5afd26ccad9b6c610cf58d"
+    "id": "ea05a4f156cbb44ee8f2a0697bda2539c"
   },
   {
     "sheetTitle": "2025.10",
-    "rowIndex": 27,
+    "rowIndex": 29,
     "pieceIndex": 0,
     "eventDay": "2025.10.29",
     "startDate": null,
     "endDate": null,
     "location": "Nyíregyháza",
     "title": "Drámajáték-vezetés továbbképzési program (kötelező továbbképzés)",
-    "id": "e04cf6a9274012cd6e65c7e5dfa26e4c1"
+    "id": "e789daff6a9030d01203c84137bc452c3"
   },
   {
     "sheetTitle": "2025.11",
@@ -1417,7 +1450,7 @@
     "endDate": null,
     "location": "Iskola u. 3.",
     "title": "Fogadóóra",
-    "id": "e5d5fe43728d57c70d01c58432378fcbe"
+    "id": "e6d9cbd95b52e7b391aecdf7783434404"
   },
   {
     "sheetTitle": "2025.11",
@@ -1428,7 +1461,7 @@
     "endDate": null,
     "location": "Iskola u. 3.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "e7e24b8f28bf821216177028ab7b1e3f7"
+    "id": "e22410eea7e7af8b17bba635b2b26523e"
   },
   {
     "sheetTitle": "2025.11",
@@ -1439,7 +1472,7 @@
     "endDate": null,
     "location": "Magyar u. 104.",
     "title": "Fogadóóra",
-    "id": "eaa6c8cbde1ac5a2a93a9d6312c126165"
+    "id": "edea33eb1010e99f4e2b1d07d21fc1952"
   },
   {
     "sheetTitle": "2025.11",
@@ -1450,117 +1483,128 @@
     "endDate": null,
     "location": "Magyar u. 104.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "e68a424ef956520daf028d83f67d52d27"
+    "id": "e89146c4cc34416943dececa12de5d1de"
   },
   {
     "sheetTitle": "2025.11",
     "rowIndex": 6,
+    "pieceIndex": 0,
+    "eventDay": "2025.11.11",
+    "startDate": null,
+    "endDate": null,
+    "location": "Iskola u. 3.",
+    "title": "Bocskai Olimpia Tűzharc bajnokság",
+    "id": "eaf097134bf4819c3a40225e3a9814e17"
+  },
+  {
+    "sheetTitle": "2025.11",
+    "rowIndex": 7,
     "pieceIndex": 0,
     "eventDay": "2025.11.12",
     "startDate": "16:00",
     "endDate": null,
     "location": "Óvoda u. 2-10.",
     "title": "Fogadóóra",
-    "id": "e825a7f39616213f6d81d4b99b8fbc146"
+    "id": "e96b011ef67c1da3b4e4b48ac6f96ae07"
   },
   {
     "sheetTitle": "2025.11",
-    "rowIndex": 6,
+    "rowIndex": 7,
     "pieceIndex": 1,
     "eventDay": "2025.11.12",
     "startDate": "17:00",
     "endDate": null,
     "location": "Óvoda u. 2-10.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "e05219d8f5dc0109a15dd138b0f2aff6b"
-  },
-  {
-    "sheetTitle": "2025.11",
-    "rowIndex": 7,
-    "pieceIndex": 0,
-    "eventDay": "2025.11.13",
-    "startDate": "16:00",
-    "endDate": null,
-    "location": "Polgári u. 71.",
-    "title": "Fogadóóra",
-    "id": "e88da98a5b010e76b91a061ef065a0324"
-  },
-  {
-    "sheetTitle": "2025.11",
-    "rowIndex": 7,
-    "pieceIndex": 1,
-    "eventDay": "2025.11.13",
-    "startDate": "17:00",
-    "endDate": null,
-    "location": "Polgári u. 71.",
-    "title": "Intézményegységi információs értekezlet",
-    "id": "e9dd989da5927b4c5acca2136a547365b"
+    "id": "e276ff0f911d46a762278315d4f8b8195"
   },
   {
     "sheetTitle": "2025.11",
     "rowIndex": 8,
+    "pieceIndex": 0,
+    "eventDay": "2025.11.13",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Polgári u. 71.",
+    "title": "Fogadóóra",
+    "id": "e3bdd779b6061d1a696cd0df43ba89081"
+  },
+  {
+    "sheetTitle": "2025.11",
+    "rowIndex": 8,
+    "pieceIndex": 1,
+    "eventDay": "2025.11.13",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Polgári u. 71.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "ede2bad76c9d8376c9a2070bbf146d3d2"
+  },
+  {
+    "sheetTitle": "2025.11",
+    "rowIndex": 9,
     "pieceIndex": 0,
     "eventDay": "2025.11.18",
     "startDate": "17:00",
     "endDate": null,
     "location": "Óvoda utca aula",
     "title": "00 Pályaválasztási szülői értekezlet",
-    "id": "ec3b9de8d4f9250c3bce86f757445ee89"
-  },
-  {
-    "sheetTitle": "2025.11",
-    "rowIndex": 9,
-    "pieceIndex": 0,
-    "eventDay": "2025.11.21",
-    "startDate": null,
-    "endDate": null,
-    "location": "Óvoda u. aula",
-    "title": "17.00. Növendékhangverseny",
-    "id": "e5c72d7803811bdcf40885e3303986694"
+    "id": "edb1d846a62063dbc914db1aff6c7e4db"
   },
   {
     "sheetTitle": "2025.11",
     "rowIndex": 10,
+    "pieceIndex": 0,
+    "eventDay": "2025.11.21",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Óvoda u. aula",
+    "title": "Növendékhangverseny",
+    "id": "ee708aa7d9caebf698f3db2dd13441b70"
+  },
+  {
+    "sheetTitle": "2025.11",
+    "rowIndex": 11,
     "pieceIndex": 0,
     "eventDay": "2025.11.25",
     "startDate": null,
     "endDate": null,
     "location": "",
     "title": "Projektbemutató",
-    "id": "e6e7a6d0cdc48b90cca36eed0077d3b1d"
+    "id": "e825df3a4afa7898871c47ceb52d5d69f"
   },
   {
     "sheetTitle": "2025.11",
-    "rowIndex": 11,
+    "rowIndex": 12,
     "pieceIndex": 0,
     "eventDay": "2025.11.26",
     "startDate": null,
     "endDate": null,
     "location": "",
     "title": "Projektbemutató",
-    "id": "e5bb5038ca90cb43efd7e19f14f705c07"
+    "id": "e7086dc6c4648b599cad039d8ed37d920"
   },
   {
     "sheetTitle": "2025.11",
-    "rowIndex": 12,
+    "rowIndex": 13,
     "pieceIndex": 0,
     "eventDay": "2025.11.27",
     "startDate": null,
     "endDate": null,
     "location": "",
     "title": "Projektbemutató",
-    "id": "e96778cbcd2d9c954d8a2d12c051f91fe"
+    "id": "ec06eeb6081f8cf9799d9ec4705792477"
   },
   {
     "sheetTitle": "2025.11",
-    "rowIndex": 13,
+    "rowIndex": 14,
     "pieceIndex": 0,
     "eventDay": "2025.11.28",
     "startDate": null,
     "endDate": null,
     "location": "",
     "title": "Projektgála",
-    "id": "e1ff609ed5ee3af5525af949ee3c64837"
+    "id": "ed70c905728e632e6f0283de0540962b3"
   },
   {
     "sheetTitle": "2025.12",
@@ -1571,7 +1615,7 @@
     "endDate": null,
     "location": "",
     "title": "Jelentkezés a középfokú felvételire",
-    "id": "e4246435692203f85c758d7549671f05c"
+    "id": "ed2306aa90841e7e3e08054fa5f95241f"
   },
   {
     "sheetTitle": "2025.12",
@@ -1582,7 +1626,7 @@
     "endDate": null,
     "location": "Iskola u, Óvoda u., Polgári u., Magyar u., Baross u.",
     "title": "Mikulásjárás",
-    "id": "eba05fd8be877c2a7529139d9333e0429"
+    "id": "e0a2c0ccd837530572d61c3afbfe6926d"
   },
   {
     "sheetTitle": "2025.12",
@@ -1593,7 +1637,7 @@
     "endDate": null,
     "location": "Iskola u. 3.",
     "title": "Fogadóóra",
-    "id": "eb81028fe13f5f9b59c053af203efddda"
+    "id": "e3be73a54f68e4113ec0157a5aa4e01bc"
   },
   {
     "sheetTitle": "2025.12",
@@ -1604,7 +1648,7 @@
     "endDate": null,
     "location": "Iskola u. 3.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "e181599a62a2f83f63a6bf28e8059dccc"
+    "id": "ee9d9f0fdd71d8f67ad8529bf64eba7eb"
   },
   {
     "sheetTitle": "2025.12",
@@ -1615,7 +1659,7 @@
     "endDate": "10:30",
     "location": "Iskola u., Baross u.",
     "title": "1.o. nyílt nap (órarend szerint)",
-    "id": "e94d640bb95f10375796350431c79e634"
+    "id": "eb69c143f36872e4937e118a66948304f"
   },
   {
     "sheetTitle": "2025.12",
@@ -1626,7 +1670,7 @@
     "endDate": null,
     "location": "Magyar u. 104.",
     "title": "Fogadóóra",
-    "id": "ecba9a350014fac931863c7dea1ba3f28"
+    "id": "e4793f0dbf984ecad0adb5e89557a7555"
   },
   {
     "sheetTitle": "2025.12",
@@ -1637,7 +1681,7 @@
     "endDate": null,
     "location": "Magyar u. 104.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "e5144e39d743a99d13e4ac1c67e7f33d5"
+    "id": "e0ee12bedd802ee0663a0d21293d8cd68"
   },
   {
     "sheetTitle": "2025.12",
@@ -1648,7 +1692,7 @@
     "endDate": "10:30",
     "location": "Polgári u.",
     "title": "1.o. nyílt nap (órarend szerint)",
-    "id": "e05658b947d45a91357733c94abdbba64"
+    "id": "e645f26e644f6eda9f0dfbb7b481359f0"
   },
   {
     "sheetTitle": "2025.12",
@@ -1659,7 +1703,7 @@
     "endDate": null,
     "location": "Óvoda u. 2-10.",
     "title": "Fogadóóra",
-    "id": "e832f3c40db86d5b10287d8b9b16b4e1d"
+    "id": "ede16341a83e7a3b450b8808a4dbd4a10"
   },
   {
     "sheetTitle": "2025.12",
@@ -1670,18 +1714,18 @@
     "endDate": null,
     "location": "Óvoda u. 2-10.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "e934eea47b9a73f2f1b33d9da610bdca1"
+    "id": "e5a24ceeecb4c8220a4accaa4ca1f3af9"
   },
   {
     "sheetTitle": "2025.12",
     "rowIndex": 14,
     "pieceIndex": 0,
     "eventDay": "2025.12.10",
-    "startDate": null,
+    "startDate": "17:00",
     "endDate": null,
     "location": "Óvoda u. aula",
-    "title": "17.00. Zongora tanszaki hangverseny",
-    "id": "e765453c766f79cb210db9023c31986cc"
+    "title": "Zongora tanszaki hangverseny",
+    "id": "e4d3d8dc300cdb08fae7281ee82904298"
   },
   {
     "sheetTitle": "2025.12",
@@ -1692,7 +1736,7 @@
     "endDate": "10:30",
     "location": "Magyar u.",
     "title": "1.o. nyílt nap (órarend szerint)",
-    "id": "e18a24c8572732c98ef01f83e0f71d762"
+    "id": "e473b37a86c27002725a9b954280d649c"
   },
   {
     "sheetTitle": "2025.12",
@@ -1703,7 +1747,7 @@
     "endDate": null,
     "location": "Polgári u. 71.",
     "title": "Fogadóóra",
-    "id": "e1339c5c3ed2b18103df68dc8b5a123e0"
+    "id": "e24911cab01d2a930656278b04ca629d1"
   },
   {
     "sheetTitle": "2025.12",
@@ -1714,7 +1758,7 @@
     "endDate": null,
     "location": "Polgári u. 71.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "e9bc528da5ae48503429c12e953e75282"
+    "id": "e521e9d73f375931509e41879cb5185a3"
   },
   {
     "sheetTitle": "2025.12",
@@ -1725,7 +1769,7 @@
     "endDate": null,
     "location": "Polgári u.",
     "title": "Óvodások versmondó versenye",
-    "id": "eeb1e3023c9fcd42f2791b8e51b10c5c0"
+    "id": "edb7f6cc9d4d40a99b94324ef418de5b4"
   },
   {
     "sheetTitle": "2025.12",
@@ -1736,7 +1780,7 @@
     "endDate": null,
     "location": "",
     "title": "Osztályozó vizsga kiértesítés (mulasztás miatt)",
-    "id": "e51da861f0c8e49130dc3596af7d4ea87"
+    "id": "e78f95c4ec2f79d6143a36de137384d2b"
   },
   {
     "sheetTitle": "2025.12",
@@ -1747,7 +1791,7 @@
     "endDate": null,
     "location": "",
     "title": "Betlehemi Táncjáték",
-    "id": "eb4aa72f2812775dc29624f8adba20bc1"
+    "id": "ee789109e35555397ba2798759a708fa1"
   },
   {
     "sheetTitle": "2025.12",
@@ -1758,18 +1802,18 @@
     "endDate": null,
     "location": "BSzC Csiha Győző Szakközépző- és Szakiskola",
     "title": "Informatikai alkalmazói verseny",
-    "id": "e94f4d699144ed82694293409198544f5"
+    "id": "ed377377bb49a36aeffd6b18402de73f3"
   },
   {
     "sheetTitle": "2025.12",
     "rowIndex": 21,
     "pieceIndex": 0,
     "eventDay": "2025.12.16",
-    "startDate": null,
+    "startDate": "17:00",
     "endDate": null,
     "location": "KLMK színházterme",
-    "title": "17.00. Karácsonyi hangverseny",
-    "id": "e92f3173ae040208514aa6e1a13095cbb"
+    "title": "Karácsonyi hangverseny",
+    "id": "ebf6491d69e8a99639b20a1b44327e43e"
   },
   {
     "sheetTitle": "2025.12",
@@ -1780,7 +1824,7 @@
     "endDate": null,
     "location": "minden intézményegység",
     "title": "Karácsonyi ünnepség 8.00- 11.00",
-    "id": "e2845fe8e4966c0e02f6c1fc1f6cb6ab2"
+    "id": "ef7809d6c4f6fcdbf92f29b467bf4c68d"
   },
   {
     "sheetTitle": "2025.12",
@@ -1791,7 +1835,7 @@
     "endDate": null,
     "location": "",
     "title": "téli szünet",
-    "id": "e4f00b350b34fc5125605d7b16e576ae4"
+    "id": "e1d1981c7d318c023d2f5ad44072c5f7d"
   },
   {
     "sheetTitle": "2025.12",
@@ -1802,7 +1846,7 @@
     "endDate": null,
     "location": "",
     "title": "téli szünet",
-    "id": "e7978fd138a639fe2b073c8760ae76d12"
+    "id": "eb14732a4afea286888f6c2e5776c61e2"
   },
   {
     "sheetTitle": "2025.12",
@@ -1813,7 +1857,7 @@
     "endDate": null,
     "location": "",
     "title": "téli szünet",
-    "id": "ec6d6ea14e4f0ad613b6d966a385d9f86"
+    "id": "eba0ff1137d16cadfe30246d52bb396ec"
   },
   {
     "sheetTitle": "2025.12",
@@ -1824,7 +1868,7 @@
     "endDate": null,
     "location": "",
     "title": "téli szünet",
-    "id": "e9eb2f8b15bc5c38b864813e1c3e6adf8"
+    "id": "e5f2d265211ca0fff55f09089ea0768d3"
   },
   {
     "sheetTitle": "2025.12",
@@ -1835,7 +1879,7 @@
     "endDate": null,
     "location": "",
     "title": "téli szünet",
-    "id": "e15cb9d8e263b10a1aa5a0bf3522b28b9"
+    "id": "e0cd8057620090a5b46a96f3ea07a0966"
   },
   {
     "sheetTitle": "2025.12",
@@ -1846,7 +1890,7 @@
     "endDate": null,
     "location": "",
     "title": "téli szünet",
-    "id": "ee8cabaa4e70b0bcf89c5b29786fb2e0b"
+    "id": "e1d084c95730e89de7e6b28831dfa61a0"
   },
   {
     "sheetTitle": "2025.12",
@@ -1857,7 +1901,7 @@
     "endDate": null,
     "location": "",
     "title": "téli szünet",
-    "id": "e614a9338ff253fb0a1c1ddcc710c2494"
+    "id": "e8aab3c57d23e100a87a643ec642a6fb1"
   },
   {
     "sheetTitle": "2025.12",
@@ -1868,7 +1912,7 @@
     "endDate": null,
     "location": "",
     "title": "téli szünet",
-    "id": "e58443de56201bc2a038e59bd770da92e"
+    "id": "e65ed08c3f9e82d18d7f6d38d250e96a9"
   },
   {
     "sheetTitle": "2025.12",
@@ -1879,7 +1923,7 @@
     "endDate": null,
     "location": "",
     "title": "téli szünet",
-    "id": "e9afe9c13458702bd26cc9c27691e8330"
+    "id": "eba4b43ee95b7a66bdda87f0a3781c0c5"
   },
   {
     "sheetTitle": "2025.12",
@@ -1890,7 +1934,7 @@
     "endDate": null,
     "location": "",
     "title": "téli szünet",
-    "id": "e9faaec665710c006d743c7674ebe979f"
+    "id": "e0ff0907a8a0d8608804b02ab8f809d29"
   },
   {
     "sheetTitle": "2026.01",
@@ -1901,7 +1945,7 @@
     "endDate": null,
     "location": "",
     "title": "pihenőnap",
-    "id": "e9477bd183a5348ef91c0c684e53149c3"
+    "id": "ee54a35e0605d91308b389dd2bcc7fdfd"
   },
   {
     "sheetTitle": "2026.01",
@@ -1912,7 +1956,7 @@
     "endDate": null,
     "location": "",
     "title": "Szakmai nap (tanítás nélküli munkanap)",
-    "id": "eb0294d3d8372326c60dd2e5ec5a502cb"
+    "id": "eea8973de5e67da58b500922f878906d1"
   },
   {
     "sheetTitle": "2026.01",
@@ -1923,7 +1967,7 @@
     "endDate": null,
     "location": "Iskola u. 3.",
     "title": "Fogadóóra",
-    "id": "e5e2dcfe17471778a63fa68e7e300f90c"
+    "id": "e41de1fda332c200eb2406a9f451f0566"
   },
   {
     "sheetTitle": "2026.01",
@@ -1934,7 +1978,7 @@
     "endDate": null,
     "location": "Iskola u. 3.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "eb2755655e52681e342ce201336b425e5"
+    "id": "e1a3aae7eca1d77b8a7916c215555f408"
   },
   {
     "sheetTitle": "2026.01",
@@ -1945,7 +1989,7 @@
     "endDate": null,
     "location": "Magyar u. 104.",
     "title": "Fogadóóra",
-    "id": "e7dbc09026ce22a4991ab8d6874e0db39"
+    "id": "ed10f5dda95628253909e82dfe58a79b7"
   },
   {
     "sheetTitle": "2026.01",
@@ -1956,7 +2000,7 @@
     "endDate": null,
     "location": "Magyar u. 104.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "e3d0a71b4a5d821a4d57aa676fc0056e0"
+    "id": "e027f9422447f4429eff2fd111caea7b7"
   },
   {
     "sheetTitle": "2026.01",
@@ -1967,7 +2011,7 @@
     "endDate": null,
     "location": "Óvoda u. 2-10.",
     "title": "Fogadóóra",
-    "id": "e9d24c892b239e63058b42e5cd5982bb7"
+    "id": "ebef093be807ebd821acc24e81d058dbf"
   },
   {
     "sheetTitle": "2026.01",
@@ -1978,7 +2022,7 @@
     "endDate": null,
     "location": "Óvoda u. 2-10.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "ea92a789bb29a3967b33b63623d0286d4"
+    "id": "edc08c832a3e021fa57dd409ec14089b9"
   },
   {
     "sheetTitle": "2026.01",
@@ -1989,7 +2033,7 @@
     "endDate": null,
     "location": "Polgári u. 71.",
     "title": "Fogadóóra",
-    "id": "e6fcabc3b6d9c5199d7dae26a115fac2f"
+    "id": "e5483d5497d7c2085cedf40ecea72a2a5"
   },
   {
     "sheetTitle": "2026.01",
@@ -2000,7 +2044,7 @@
     "endDate": null,
     "location": "Polgári u. 71.",
     "title": "Intézményegységi információs értekezlet",
-    "id": "e110ebc03e54fe62499321f71891d25a0"
+    "id": "e21f9bd0e0bcffd6a85d277fd50471190"
   },
   {
     "sheetTitle": "2026.01",
@@ -2011,7 +2055,7 @@
     "endDate": null,
     "location": "",
     "title": "Osztályozó vizsgák",
-    "id": "e821789d35af82a8c96fb29b1f09061b7"
+    "id": "e633563adaf7c82ea716d4d1d22d13a6d"
   },
   {
     "sheetTitle": "2026.01",
@@ -2022,7 +2066,7 @@
     "endDate": null,
     "location": "",
     "title": "Osztályozó vizsgák",
-    "id": "e7fe247e1c6de07cdccf4317a72a6cecd"
+    "id": "ea4d957651256e41cea49a2e77a4eebfe"
   },
   {
     "sheetTitle": "2026.01",
@@ -2033,7 +2077,7 @@
     "endDate": null,
     "location": "",
     "title": "Osztályozó vizsgák",
-    "id": "e910747c4327fc85e1624266a0d46846f"
+    "id": "e1e8cf661ff9034ac6e3a351cec9c0e41"
   },
   {
     "sheetTitle": "2026.01",
@@ -2044,7 +2088,7 @@
     "endDate": null,
     "location": "",
     "title": "Osztályozó vizsgák",
-    "id": "ec2c08d036f42b0e29b0b8aa8e133f038"
+    "id": "ef11444e84515a0c013d0e7262be64e40"
   },
   {
     "sheetTitle": "2026.01",
@@ -2055,7 +2099,7 @@
     "endDate": null,
     "location": "",
     "title": "Osztályozó vizsgák",
-    "id": "ec5ce156c8d7694d1ceb0b2b801dadba3"
+    "id": "ec8943154a62d153878948891ff0deb9f"
   },
   {
     "sheetTitle": "2026.01",
@@ -2066,7 +2110,7 @@
     "endDate": null,
     "location": "",
     "title": "Osztályozó vizsgák",
-    "id": "e6a0e37f5e589042f1bb4c4d49e1ae00b"
+    "id": "ea8ecfd37123e85c76eb370065bd0a4f0"
   },
   {
     "sheetTitle": "2026.01",
@@ -2077,7 +2121,7 @@
     "endDate": null,
     "location": "",
     "title": "Osztályozó vizsgák",
-    "id": "e85efc228eb69a69b8eecd0cf365e0518"
+    "id": "e2e3f3e76b0b05617feac4515e4058a23"
   },
   {
     "sheetTitle": "2026.01",
@@ -2088,7 +2132,7 @@
     "endDate": null,
     "location": "",
     "title": "Első félév vége",
-    "id": "efea4637785c89d66321f6334ba87843f"
+    "id": "eb0ba00ed1cbfa2f1054edbc693394cf2"
   },
   {
     "sheetTitle": "2026.01",
@@ -2099,7 +2143,7 @@
     "endDate": null,
     "location": "",
     "title": "osztályozó értekezetek",
-    "id": "e0accdd7ef360f2b3458e4438b405d67a"
+    "id": "efd955318eeac402cb58fecbc84744ec6"
   },
   {
     "sheetTitle": "2026.01",
@@ -2110,7 +2154,7 @@
     "endDate": null,
     "location": "",
     "title": "Központi felvételi",
-    "id": "e2de372a4ac40d13961c087793a5e9809"
+    "id": "e346866f9866beaa6137e0a9fa341236e"
   },
   {
     "sheetTitle": "2026.01",
@@ -2121,7 +2165,7 @@
     "endDate": null,
     "location": "Magyar u.",
     "title": "Óvodás rajzverseny eredményhirdetése",
-    "id": "eb6f8322c9a1e59cebd0a2c35fa0a757a"
+    "id": "ef50aff67a6ede1a133003f2bb56023d8"
   },
   {
     "sheetTitle": "2026.01",
@@ -2132,6 +2176,1513 @@
     "endDate": null,
     "location": "",
     "title": "Félévi értesítések a szülők felé",
-    "id": "e88ab09bc750fbb99bed8c7b73f36dc2a"
+    "id": "e3011f2e30c920b6a3e298bc626bdd033"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 4,
+    "pieceIndex": 0,
+    "eventDay": "2026.02.03",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Iskola u., Magyar u., Polgári u. Baross u.",
+    "title": "Fogadóóra",
+    "id": "eb2580a3fb026c0b4e02f4071aa048dfd"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 4,
+    "pieceIndex": 1,
+    "eventDay": "2026.02.03",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Iskola u., Magyar u., Polgári u. Baross u.",
+    "title": "Alsós szülői értekezletek (1-4.o. és SNI-A)",
+    "id": "e8a200fc85498c9ff1a9721b13ec2b4f8"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 5,
+    "pieceIndex": 0,
+    "eventDay": "2026.02.04",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Óvoda u., Magyar u., Polgári u. Baross u.",
+    "title": "Fogadóóra",
+    "id": "ea20ee21ed55ea662eb71af8b5a390efe"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 5,
+    "pieceIndex": 1,
+    "eventDay": "2026.02.04",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Óvoda u., Magyar u., Polgári u. Baross u.",
+    "title": "Felsős szülői értekezletek (5-8..o. és SNI-F)",
+    "id": "e851606790b4be4e22643560827564f09"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 6,
+    "pieceIndex": 0,
+    "eventDay": "2026.02.05",
+    "startDate": "11:00",
+    "endDate": null,
+    "location": "Óvoda u. aula",
+    "title": "Félévi értekezlet",
+    "id": "eb7ca0314c3490af12996401da076c349"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 7,
+    "pieceIndex": 0,
+    "eventDay": "2026.02.05",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Óvoda u. aula",
+    "title": "Szülői munkaközösségi megbeszélés",
+    "id": "e025496085477493b080eb2a2eddc5d62"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 8,
+    "pieceIndex": 0,
+    "eventDay": "2026.02.06",
+    "startDate": "06:00",
+    "endDate": null,
+    "location": "Iskola u. tornaterem?",
+    "title": "Kivsinyek farsangi hangversenye",
+    "id": "ef21141696467538c5a442ae25634f90d"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 9,
+    "pieceIndex": 0,
+    "eventDay": "2026.02.09",
+    "startDate": "16:15",
+    "endDate": null,
+    "location": "Iskola u. 3.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "ea1dd8bebae8848d8b4355c7bea6ce1b8"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 10,
+    "pieceIndex": 0,
+    "eventDay": "2026.02.10",
+    "startDate": "16:15",
+    "endDate": null,
+    "location": "Magyar u. 104.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "ec9aec9dd0ddd859218191e2da766d665"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 11,
+    "pieceIndex": 0,
+    "eventDay": "2026.02.11",
+    "startDate": "16:15",
+    "endDate": null,
+    "location": "Óvoda u. 2-10.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "e8b477baf5a0d5e4ea38405ad15ec8a85"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 12,
+    "pieceIndex": 0,
+    "eventDay": "2026.02.12",
+    "startDate": "16:15",
+    "endDate": null,
+    "location": "Polgári u. 71.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "ef68717f780def8446c54c3c81cd4c275"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 13,
+    "pieceIndex": 0,
+    "eventDay": "2026.02.13",
+    "startDate": null,
+    "endDate": null,
+    "location": "Iskola u., Polgári u.",
+    "title": "Farsang",
+    "id": "e41975d7b9952f33f526d8130b3922ad2"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 14,
+    "pieceIndex": 0,
+    "eventDay": "2026.02.20",
+    "startDate": null,
+    "endDate": null,
+    "location": "Óvoda u., Magyar u.",
+    "title": "Farsang",
+    "id": "e822eecd9c714a38fa37e47face1ee901"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 15,
+    "pieceIndex": 0,
+    "eventDay": "2026.02.22",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Parasport Napja",
+    "id": "e2c043417b0225d2b1624ba62c64d6150"
+  },
+  {
+    "sheetTitle": "2026.02",
+    "rowIndex": 16,
+    "pieceIndex": 0,
+    "eventDay": "2026.02.25",
+    "startDate": null,
+    "endDate": null,
+    "location": "Iskola u.",
+    "title": "Ovi-Kupa",
+    "id": "ebc33810a8a5aaab70b116ce29afa6877"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 4,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.02",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Pénz7",
+    "id": "e1e9fece613a2a74a201a04e362f590fb"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 4,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.03",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Pénz7",
+    "id": "ef8aefd2ede32f6e152e60af060e37711"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 4,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.04",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Pénz7",
+    "id": "e9d898253255ff19453daa89a0c5bdc8f"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 4,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.05",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Pénz7",
+    "id": "ee2ed97383c647a14698ed7f9a5d62df6"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 4,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.06",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Pénz7",
+    "id": "ed8da49ddeb69b843fe083599087bc4ab"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 5,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.03",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Osztályozó vizsga kiértesítés (egyéni tanrend)",
+    "id": "e8d2d963f488804ffaf53cfefb5fca9f2"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 6,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.09",
+    "startDate": "07:45",
+    "endDate": "10:30",
+    "location": "Magyar utca",
+    "title": "Nyílt nap a leendő elsős szülőknek",
+    "id": "e3f9c90999b09820a8c06dc8afca87b43"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 6,
+    "pieceIndex": 1,
+    "eventDay": "2026.03.09",
+    "startDate": "10:45",
+    "endDate": null,
+    "location": "Magyar utca",
+    "title": "Tájékoztató és megbeszélés",
+    "id": "ec6dbf502e73861e9da59ad1bf1f4666e"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 7,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.09",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Iskola u. 3.",
+    "title": "Fogadóóra",
+    "id": "e03f8d9c6b20df9058e79163adc1dd934"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 7,
+    "pieceIndex": 1,
+    "eventDay": "2026.03.09",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Iskola u. 3.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "e84e7f13a5371e94b91be8479e34386ae"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 8,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.10",
+    "startDate": "07:45",
+    "endDate": "10:30",
+    "location": "Magyar utca",
+    "title": "Nyílt nap a leendő elsős szülőknek",
+    "id": "e893729877ffbe590fa824a3b26c54b41"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 8,
+    "pieceIndex": 1,
+    "eventDay": "2026.03.10",
+    "startDate": "10:45",
+    "endDate": null,
+    "location": "Magyar utca",
+    "title": "Tájékoztató és megbeszélés a szülők számára",
+    "id": "edd5607d24b6a6e66a85ff4bf176dc2f3"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 8,
+    "pieceIndex": 2,
+    "eventDay": "2026.03.10",
+    "startDate": null,
+    "endDate": null,
+    "location": "Magyar utca",
+    "title": "iskolaváró foglalkozás a gyerekeknek",
+    "id": "e49046fa04f00f275a7f132cd8bdb31e4"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 9,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.10",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Magyar u. 104.",
+    "title": "Fogadóóra",
+    "id": "eb54844a45488cfd674c36111b8cf3458"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 9,
+    "pieceIndex": 1,
+    "eventDay": "2026.03.10",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Magyar u. 104.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "e658cd3e580b361267a5ca777f3f69c36"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 10,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.11",
+    "startDate": "07:45",
+    "endDate": "10:30",
+    "location": "Polgári utca",
+    "title": "Nyílt nap a leendő elsős szülőknek",
+    "id": "ee8f454f40004513681479049914661f5"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 10,
+    "pieceIndex": 1,
+    "eventDay": "2026.03.11",
+    "startDate": "10:45",
+    "endDate": null,
+    "location": "Polgári utca",
+    "title": "Tájékoztató és megbeszélés a szülők számára",
+    "id": "ed28e78762427ee2f25ac6f631de15461"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 10,
+    "pieceIndex": 2,
+    "eventDay": "2026.03.11",
+    "startDate": null,
+    "endDate": null,
+    "location": "Polgári utca",
+    "title": "iskolaváró foglalkozás a gyerekeknek",
+    "id": "e69d321f4d040598f15e1129db99d0e2b"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 11,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.11",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Óvoda u. 2-10.",
+    "title": "Fogadóóra",
+    "id": "e524ad462f2634f73c3e9e1ee58167aa8"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 11,
+    "pieceIndex": 1,
+    "eventDay": "2026.03.11",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Óvoda u. 2-10.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "ead9c3651fd908448e34812b459cf6903"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 12,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.12",
+    "startDate": "07:45",
+    "endDate": "10:30",
+    "location": "Iskola utca",
+    "title": "Nyílt nap a leendő elsős szülőknek",
+    "id": "e3868cdc6dd23980d5f10f386e8978395"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 12,
+    "pieceIndex": 1,
+    "eventDay": "2026.03.12",
+    "startDate": "10:45",
+    "endDate": null,
+    "location": "Iskola utca",
+    "title": "Tájékoztató és megbeszélés a szülők számára",
+    "id": "ec207ca19d1303dfacb7783424eab8015"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 12,
+    "pieceIndex": 2,
+    "eventDay": "2026.03.12",
+    "startDate": null,
+    "endDate": null,
+    "location": "Iskola utca",
+    "title": "iskolaváró foglalkozás a gyerekeknek",
+    "id": "eeb624b74d9ab843b6fa183b86f4fd17f"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 13,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.12",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Polgári u. 71.",
+    "title": "Fogadóóra",
+    "id": "e2261d30fee11dae339d5db111cbee161"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 13,
+    "pieceIndex": 1,
+    "eventDay": "2026.03.12",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Polgári u. 71.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "e2dbf8a0dcade5a6f15d98a1639c0f821"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 14,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.13",
+    "startDate": null,
+    "endDate": null,
+    "location": "Színházterem",
+    "title": "Március 15. megemlékezés",
+    "id": "e2a00323aa755265c88051afcd128d289"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 16,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.20",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Előzetes felvételi jegyzék",
+    "id": "eedc5ac498bdadc34c89e444b1e49c47c"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 17,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.20",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Óvoda u. aula",
+    "title": "Bach mindenkinek",
+    "id": "e2bf2c3c3494385c0fca4b2839da1f080"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 18,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.23",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Digitális Témahét",
+    "id": "e951f1f4e80dd8bfb1690975764726397"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 18,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.24",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Digitális Témahét",
+    "id": "ef03a56297d5f10ed876ef4dcf7333820"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 18,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.25",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Digitális Témahét",
+    "id": "e2bbad39c034a648c462a9e65d11bbdc2"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 18,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.26",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Digitális Témahét",
+    "id": "e3d180c83804756543a3b6fbd60344e85"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 18,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.27",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Digitális Témahét",
+    "id": "eed06c0b02005694e2a0c0f77ab2966d6"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 19,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.25",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Felvételi lapok módosítása",
+    "id": "e79ad7644cede3aafb7f8e6ab498f1a36"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 19,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.26",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Felvételi lapok módosítása",
+    "id": "e913845127db5229594784f2c587bb47e"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 19,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.27",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Felvételi lapok módosítása",
+    "id": "eb520e1115788bfa7f093c1af684100d2"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 20,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.31",
+    "startDate": null,
+    "endDate": null,
+    "location": "Óvoda u., Polgári u., Magyar u.",
+    "title": "Fordított nap",
+    "id": "ee61a1358126c146a7674a083b0bb5374"
+  },
+  {
+    "sheetTitle": "2026.03",
+    "rowIndex": 21,
+    "pieceIndex": 0,
+    "eventDay": "2026.03.31",
+    "startDate": "13:30",
+    "endDate": "14:30",
+    "location": "",
+    "title": "Tanár-diák focimeccs",
+    "id": "ee4d584bf1867dea6c96c84674c9464c6"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 4,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.01",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Szakmai nap",
+    "id": "e8bad3a404909f66345ad16bf0f2240fe"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 5,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.02",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Tavaszi szünet",
+    "id": "ed1dbe3cdb2a1cb553f84d516043f29d7"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 5,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.03",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Tavaszi szünet",
+    "id": "e6207b3e8204a1f3b622b2e297cd36abf"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 5,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.04",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Tavaszi szünet",
+    "id": "e3106e524c7767bd5b7af7e4aa5e799d9"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 5,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.05",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Tavaszi szünet",
+    "id": "e05b22347fb7b2c83d1ee8628f3f40cef"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 5,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.06",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Tavaszi szünet",
+    "id": "e1ee9b7a43265eb132a217d81a4bdcfa0"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 5,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.07",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Tavaszi szünet",
+    "id": "e9e1b623ade9fbbe25da20fabdfddb0b0"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 5,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.08",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Tavaszi szünet",
+    "id": "ecb9295cd2611fc192e341d17f12153dc"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 5,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.09",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Tavaszi szünet",
+    "id": "eeebde1c6468fa121e441347a0fd48f68"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 5,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.10",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Tavaszi szünet",
+    "id": "e185cc00cfa7fc3c74683cf432568946d"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 6,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.15",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Színházterem",
+    "title": "Szülői értekezlet a leendő elsős szülők számára",
+    "id": "e11bc6764deea78b4a06b571aabf9a64f"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 7,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.20",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Fenntarthatósági témahét",
+    "id": "e350fa9f60b2e6b78cd009a8db0b5b7e4"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 7,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.21",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Fenntarthatósági témahét",
+    "id": "eb3f4150f3548557b0e15776d9702dbc2"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 7,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.22",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Fenntarthatósági témahét",
+    "id": "e810fd6a8fd907c38d2eb445bbbc7c164"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 7,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.23",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Fenntarthatósági témahét",
+    "id": "efe914fe86731a65523f33198e6efa58f"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 7,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.24",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Fenntarthatósági témahét",
+    "id": "ee6d082b22ad74ef57ac5a7c439bcd46c"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 8,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.20",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Iskola u. 3.",
+    "title": "Fogadóóra",
+    "id": "e30dc5c329de9055db1952d940908a37a"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 8,
+    "pieceIndex": 1,
+    "eventDay": "2026.04.20",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Iskola u. 3.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "ee7a15949ff1fee1612baaad007a1418b"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 9,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.21",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Magyar u. 104.",
+    "title": "Fogadóóra",
+    "id": "e0b5ef2fcf1c92344ca63210f8d644016"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 9,
+    "pieceIndex": 1,
+    "eventDay": "2026.04.21",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Magyar u. 104.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "e7d0c6222dbcde65a1baa7dbe588ffa69"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 10,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.22",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Óvoda u. 2-10.",
+    "title": "Fogadóóra",
+    "id": "e62e43da15bd0f7fd305dc0564cba9545"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 10,
+    "pieceIndex": 1,
+    "eventDay": "2026.04.22",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Óvoda u. 2-10.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "e7acc3470f559f85111307d26d52101f6"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 11,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.23",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Polgári u. 71.",
+    "title": "Fogadóóra",
+    "id": "e6ca4170a23617eb47b4e0cc048c49973"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 11,
+    "pieceIndex": 1,
+    "eventDay": "2026.04.23",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Polgári u. 71.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "e8d3a871fb342747c28dbca7116dd9967"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 12,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.23",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Leendő elsősök beiratása",
+    "id": "e0f688048bb0b8cb76d19ec112c345ec2"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 12,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.24",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Leendő elsősök beiratása",
+    "id": "ee9f261a34c03e855644995a01c5ee1c5"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 13,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.28",
+    "startDate": "13:00",
+    "endDate": null,
+    "location": "Óvoda u.",
+    "title": "8. osztályos vizsga",
+    "id": "e3c1cd6063b1e369e1a6c119656571054"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 14,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.29",
+    "startDate": "13:00",
+    "endDate": null,
+    "location": "Magyar u.",
+    "title": "8. osztályos vizsga",
+    "id": "e10a6a015d8fb89f82c64e30e447a99b0"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 15,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.30",
+    "startDate": "13:00",
+    "endDate": null,
+    "location": "Polgári u.",
+    "title": "8. osztályos vizsga",
+    "id": "edda31d64708cd56e0461ac685c66a10b"
+  },
+  {
+    "sheetTitle": "2026.04",
+    "rowIndex": 16,
+    "pieceIndex": 0,
+    "eventDay": "2026.04.30",
+    "startDate": null,
+    "endDate": null,
+    "location": "Művház",
+    "title": "Nevesített Néptánc csoportok gálaműsora",
+    "id": "ebef6b3a08cf14958cecef6faf62655d6"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 4,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.04",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Iskola u. 3.",
+    "title": "Fogadóóra",
+    "id": "e56d163191cdc7966544a18d8b2110f46"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 4,
+    "pieceIndex": 1,
+    "eventDay": "2026.05.04",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Iskola u. 3.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "e4a3619a97e8ab21a57806344b686d8aa"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 5,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.05",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Magyar u. 104.",
+    "title": "Fogadóóra",
+    "id": "e8acfcddb63798d5d252cef26c16179aa"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 5,
+    "pieceIndex": 1,
+    "eventDay": "2026.05.05",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Magyar u. 104.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "e422f41ed85628066ff27c206dc59193c"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 6,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.06",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Óvoda u. 2-10.",
+    "title": "Fogadóóra",
+    "id": "ee27c8c12da8606ad6b5f847f50236c80"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 6,
+    "pieceIndex": 1,
+    "eventDay": "2026.05.06",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Óvoda u. 2-10.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "e03afea88650af498d54eb04743d92bc6"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 7,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.07",
+    "startDate": null,
+    "endDate": null,
+    "location": "Óvoda u aula",
+    "title": "Aranyhang hangszeres verseny (egész nap)",
+    "id": "e9e922f449e00f9319ca4ab175e748ed5"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 8,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.07",
+    "startDate": "16:00",
+    "endDate": null,
+    "location": "Polgári u. 71.",
+    "title": "Fogadóóra",
+    "id": "ee9295c80a4b7be5c120f98c3e88cf8fe"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 8,
+    "pieceIndex": 1,
+    "eventDay": "2026.05.07",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Polgári u. 71.",
+    "title": "Intézményegységi információs értekezlet",
+    "id": "e542830114ea2c1635e89a6ffb89aa058"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 9,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.08",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Osztályozó vizsga kiértesítés (mulasztás)",
+    "id": "eaf10469f1edb55828add7b5d486f1723"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 10,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.12",
+    "startDate": null,
+    "endDate": null,
+    "location": "Erdély",
+    "title": "Határtalanul",
+    "id": "e3e0b2086e5b1f04ec545d1e48d72580b"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 10,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.13",
+    "startDate": null,
+    "endDate": null,
+    "location": "Erdély",
+    "title": "Határtalanul",
+    "id": "e7726c2c43713cc3143a2cc480ebcbcd8"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 10,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.14",
+    "startDate": null,
+    "endDate": null,
+    "location": "Erdély",
+    "title": "Határtalanul",
+    "id": "ee4c4e92037f77540defd52e71f14c86d"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 10,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.15",
+    "startDate": null,
+    "endDate": null,
+    "location": "Erdély",
+    "title": "Határtalanul",
+    "id": "ee2b90afbd05eb2829ac7379e78c36554"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 10,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.16",
+    "startDate": null,
+    "endDate": null,
+    "location": "Erdély",
+    "title": "Határtalanul",
+    "id": "eb8e7925c178dd071ddc376195c8af516"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 10,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.17",
+    "startDate": null,
+    "endDate": null,
+    "location": "Erdély",
+    "title": "Határtalanul",
+    "id": "e44ddb5ab5f65008d451b44ddf1e85ded"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 11,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.14",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Megbeszélés a leendő elsős osztályfőnökök részére",
+    "id": "e8fa47929725d863da08e4bbb903d020f"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 12,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.18",
+    "startDate": null,
+    "endDate": null,
+    "location": "Polgári u.",
+    "title": "Néptáncos vizsgaelőadás Polgári utca",
+    "id": "ea57e6a527330d439f6ce1a0cb22b4313"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 13,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.19",
+    "startDate": null,
+    "endDate": null,
+    "location": "Magyar u.",
+    "title": "Néptáncos vizsgaelőadás Magyar utca",
+    "id": "ec514f4003fac2e51690bff6087b98b6a"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 14,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.20",
+    "startDate": null,
+    "endDate": null,
+    "location": "Iskola u.",
+    "title": "Néptáncos vizsgaelőadás Iskola utca",
+    "id": "ebc549f59cb1a3807363f2f39c681ceaf"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 15,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.21",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Óvoda u., aula",
+    "title": "Leendő elsős szülői értekezlet",
+    "id": "ede23c838ca6c2be8ab42da32dc45d829"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 16,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.26",
+    "startDate": null,
+    "endDate": null,
+    "location": "BSzC Csiha Győző Szakközép- és Szakképző Iskola",
+    "title": "Érti a hat vágást",
+    "id": "e095498020d079b2f0c13db75b4111c7e"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 17,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.27",
+    "startDate": "15:00",
+    "endDate": null,
+    "location": "Óvoda u.",
+    "title": "17.00. Felvételi meghallgatások az AMI-ban",
+    "id": "ebc11f83f6680d2e6b2e7e5642e3ecb3a"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 17,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.28",
+    "startDate": "15:00",
+    "endDate": null,
+    "location": "Óvoda u.",
+    "title": "17.00. Felvételi meghallgatások az AMI-ban",
+    "id": "e8660d854e380673a42ec0c7b179d2273"
+  },
+  {
+    "sheetTitle": "2026.05",
+    "rowIndex": 17,
+    "pieceIndex": 0,
+    "eventDay": "2026.05.29",
+    "startDate": "15:00",
+    "endDate": null,
+    "location": "Óvoda u.",
+    "title": "17.00. Felvételi meghallgatások az AMI-ban",
+    "id": "ef50a64e1863391f54f18290a08479e19"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 4,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.08",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Osztályozó vizsgák",
+    "id": "e407486bea23e60c1511c22b9ea8776c8"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 4,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.09",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Osztályozó vizsgák",
+    "id": "e4010c9bcfbe2781d45b89815bccf0d19"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 4,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.10",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Osztályozó vizsgák",
+    "id": "ecd30fbe5159e7504861610296af8e102"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 4,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.11",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Osztályozó vizsgák",
+    "id": "e247159d48f21680461c4f533e96d47ae"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 4,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.12",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Osztályozó vizsgák",
+    "id": "e171bf9f608a2cfd84446ce232bd2cdc2"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 5,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.16",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "DÖK-nap Polgári utca",
+    "id": "eedce9cc0fa0258d9be9f172b18f8cc26"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 6,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.17",
+    "startDate": null,
+    "endDate": null,
+    "location": "Liget",
+    "title": "DÖK-nap Iskola és Óvoda utca",
+    "id": "e5b04619d52c851e38495da8105761419"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 7,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.18",
+    "startDate": null,
+    "endDate": null,
+    "location": "Liget",
+    "title": "DÖK-nap Magyar utca",
+    "id": "e6eacd819d8fa6cd09cd0c8ce40cdbf39"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 8,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.18",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Utolsó tanítási nap az AMI-ban",
+    "id": "eeb80f56f021fcb0fd7cb307e007c1553"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 9,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.19",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Utolsó tanítási nap",
+    "id": "e270c471c4643551056799044ef860986"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 10,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.19",
+    "startDate": "14:00",
+    "endDate": null,
+    "location": "Óvoda utca, Magyar utca, Polgári utca",
+    "title": "00 Osztályozó értekezletek",
+    "id": "e9cea617e0de635f7e026f1e0f6cabac6"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 12,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.20",
+    "startDate": null,
+    "endDate": null,
+    "location": "Óvoda utca, Magyar utca, Polgári utca",
+    "title": "Ballagás (bizonyítványosztás nélkül)",
+    "id": "e1b184b0f87abe1866ed97aea67dd83f1"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 12,
+    "pieceIndex": 1,
+    "eventDay": "2026.06.20",
+    "startDate": "09:00",
+    "endDate": null,
+    "location": "Óvoda utca, Magyar utca, Polgári utca",
+    "title": "Magyar utca",
+    "id": "e951fcf36a72403a6b4cf889697c608b2"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 12,
+    "pieceIndex": 2,
+    "eventDay": "2026.06.20",
+    "startDate": "10:00",
+    "endDate": null,
+    "location": "Óvoda utca, Magyar utca, Polgári utca",
+    "title": "Polgári utca",
+    "id": "ed5b0ce47700de3608a1a7457f0dc7996"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 12,
+    "pieceIndex": 3,
+    "eventDay": "2026.06.20",
+    "startDate": "11:00",
+    "endDate": null,
+    "location": "Óvoda utca, Magyar utca, Polgári utca",
+    "title": "Óvoda utca",
+    "id": "e7049bc31e5254e28ec2d6dbac5321787"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 13,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.24",
+    "startDate": "10:00",
+    "endDate": null,
+    "location": "Óvoda utca, Magyar utca, Polgári utca",
+    "title": "Bizonyítványosztás a 8. osztályos gyerekek számára",
+    "id": "e9ad6efb112d7c0f9cf4de15f687f26e5"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 14,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.25",
+    "startDate": null,
+    "endDate": null,
+    "location": "kollégium, BSZC Csiha",
+    "title": "Beiratkozás a kollégiumba",
+    "id": "efcba8991435ab128ac6e2baca6025d5e"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 14,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.26",
+    "startDate": null,
+    "endDate": null,
+    "location": "kollégium, BSZC Csiha",
+    "title": "Beiratkozás a kollégiumba",
+    "id": "e8903450a4b5eb9f632f5af69590c738d"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 15,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.25",
+    "startDate": "08:00",
+    "endDate": "12:00",
+    "location": "Iskola utca, ebédlő",
+    "title": "Szakmai felkészítés a ManóSulihoz",
+    "id": "e78216018e65b7da263c9ecd654fd637e"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 16,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.25",
+    "startDate": "17:00",
+    "endDate": null,
+    "location": "Óvoda u. aula és a zenetermek",
+    "title": "Tanévzáró ünnepség: AMI",
+    "id": "e20bf264816b522a6a7de5492ae4967bd"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 17,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.26",
+    "startDate": null,
+    "endDate": null,
+    "location": "",
+    "title": "Tanévzáró ünnepség",
+    "id": "e1cc9e1ae2533c7e39ace1db807291e13"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 17,
+    "pieceIndex": 1,
+    "eventDay": "2026.06.26",
+    "startDate": "09:00",
+    "endDate": null,
+    "location": "",
+    "title": "Óvoda utca",
+    "id": "ed6aa78c723a8c5b2372f370adcae3c20"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 17,
+    "pieceIndex": 2,
+    "eventDay": "2026.06.26",
+    "startDate": "16:30",
+    "endDate": null,
+    "location": "",
+    "title": "Iskola utca",
+    "id": "e73d27ac7e3d2628fe6363359cdaf6156"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 17,
+    "pieceIndex": 3,
+    "eventDay": "2026.06.26",
+    "startDate": "17:30",
+    "endDate": null,
+    "location": "",
+    "title": "Polgári utca",
+    "id": "e8c9721865f5f22b37c3d5777a8b68438"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 17,
+    "pieceIndex": 4,
+    "eventDay": "2026.06.26",
+    "startDate": "18:30",
+    "endDate": null,
+    "location": "",
+    "title": "Magyar utca",
+    "id": "e52abff8d63a9237bd92901f58fece216"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 19,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.29",
+    "startDate": "08:00",
+    "endDate": "12:00",
+    "location": "hétfő Magyar utca\nkedd Polgári utca",
+    "title": "Szakmai felkészítés a ManóSulihoz",
+    "id": "e7955465e29d5110be6ce4b7d052ca3b2"
+  },
+  {
+    "sheetTitle": "2026.06",
+    "rowIndex": 19,
+    "pieceIndex": 0,
+    "eventDay": "2026.06.30",
+    "startDate": "08:00",
+    "endDate": "12:00",
+    "location": "hétfő Magyar utca\nkedd Polgári utca",
+    "title": "Szakmai felkészítés a ManóSulihoz",
+    "id": "e4675f54811be9531560d809d2c1a4594"
+  },
+  {
+    "sheetTitle": "2026.07",
+    "rowIndex": 4,
+    "pieceIndex": 0,
+    "eventDay": "2026.07.01",
+    "startDate": "08:30",
+    "endDate": null,
+    "location": "Óvoda utca, aula",
+    "title": "Tanévzáró értekezlet",
+    "id": "eca3a8d910d402050b5eee92eaa5875df"
+  },
+  {
+    "sheetTitle": "2026.07",
+    "rowIndex": 5,
+    "pieceIndex": 0,
+    "eventDay": "2026.07.01",
+    "startDate": "08:30",
+    "endDate": null,
+    "location": "Óvoda utca, aula",
+    "title": "Értekezlet és szavazás magasabb vezetői megbízásról",
+    "id": "e959f1fd141f06b8e4b10e5354fd127f8"
   }
 ]

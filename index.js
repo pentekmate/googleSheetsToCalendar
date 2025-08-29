@@ -18,6 +18,9 @@ function normalizeTime(str) {
   // pontot kettősponttá
   s = s.replace(/\./g, ":");
 
+  // végéről levágja a felesleges ":" vagy "."
+  s = s.replace(/[:\.]+$/, "");
+
   // 0830 vagy 830 -> 08:30
   if (/^\d{3,4}$/.test(s)) {
     const hh = s.length === 3 ? s.slice(0, 1) : s.slice(0, 2);
@@ -43,48 +46,56 @@ function expandDays(sheetTitle, rawDay) {
   if (!rawDay) return [];
   const s = String(rawDay).trim();
 
-  // több érték vesszővel elválasztva
   const parts = s.split(",").map(p => p.trim()).filter(Boolean);
   let days = [];
 
   for (const part of parts) {
-    // ha teljes dátumintervallum: MM.DD - MM.DD
-    let m = part.match(/^(\d{1,2})\.(\d{1,2})\s*[-–]\s*(\d{1,2})\.(\d{1,2})\.?$/);
-    if (m) {
-      let [ , m1, d1, m2, d2 ] = m.map(Number);
-      const year = sheetTitle.split(".")[0]; // pl. "2025.09" → "2025"
-      let start = new Date(year, m1 - 1, d1);
-      let end   = new Date(year, m2 - 1, d2);
+    try {
+      // teljes dátumintervallum: MM.DD - MM.DD
+      let m = part.match(/^(\d{1,2})\.(\d{1,2})\s*[-–]\s*(\d{1,2})\.(\d{1,2})\.?$/);
+      if (m) {
+        let [ , m1, d1, m2, d2 ] = m.map(Number);
+        const year = sheetTitle.split(".")[0]; // pl. "2025.09" → "2025"
+        let start = new Date(year, m1 - 1, d1);
+        let end   = new Date(year, m2 - 1, d2);
 
-      if (end < start) { // ha fordítva van, cseréljük
-        [start, end] = [end, start];
+        if (isNaN(start) || isNaN(end)) {
+          console.warn("Invalid date range, skipping:", part);
+          continue;
+        }
+
+        if (end < start) [start, end] = [end, start];
+
+        for (let dt = new Date(start); dt <= end; dt.setDate(dt.getDate() + 1)) {
+          const mm = String(dt.getMonth() + 1).padStart(2, "0");
+          const dd = String(dt.getDate()).padStart(2, "0");
+          days.push(`${year}.${mm}.${dd}`);
+        }
+        continue;
       }
 
-      for (let dt = new Date(start); dt <= end; dt.setDate(dt.getDate() + 1)) {
-        const mm = String(dt.getMonth() + 1).padStart(2, "0");
-        const dd = String(dt.getDate()).padStart(2, "0");
-        days.push(`${year}.${mm}.${dd}`);
-      }
-      continue;
-    }
+      // nap tartomány: 5-8 vagy csak 5
+      const cleaned = part.replace(/[^\d\-–]/g, "");
+      if (!cleaned) continue;
 
-    // ha csak nap tartomány (pl. 5-8)
-    const cleaned = part.replace(/[^\d\-–]/g, "");
-    if (!cleaned) continue;
-
-    const range = cleaned.split(/-|–/).map(x => parseInt(x, 10)).filter(n => !isNaN(n));
-    if (range.length === 1) {
-      days.push(`${sheetTitle}.${String(range[0]).padStart(2, "0")}`);
-    } else if (range.length === 2) {
-      let [start, end] = range;
-      if (end < start) [start, end] = [end, start];
-      for (let d = start; d <= end; d++) {
-        days.push(`${sheetTitle}.${String(d).padStart(2, "0")}`);
+      const range = cleaned.split(/-|–/).map(x => parseInt(x, 10)).filter(n => !isNaN(n));
+      if (range.length === 1) {
+        days.push(`${sheetTitle}.${String(range[0]).padStart(2, "0")}`);
+      } else if (range.length === 2) {
+        let [start, end] = range;
+        if (end < start) [start, end] = [end, start];
+        for (let d = start; d <= end; d++) {
+          days.push(`${sheetTitle}.${String(d).padStart(2, "0")}`);
+        }
+      } else {
+        console.warn("Unrecognized day format, skipping:", part);
       }
+    } catch (err) {
+      console.warn("Error parsing day, skipping:", part, err.message);
     }
   }
 
-  return days;
+ return days
 }
 
 
@@ -92,7 +103,6 @@ function expandDays(sheetTitle, rawDay) {
 function parseSingleEventPiece(piece) {
   let text = String(piece || "").trim();
 
-  // Segédfüggvény: levágja a felesleges elválasztókat a title elejéről
   function cleanTitle(str) {
     return String(str || "").replace(/^[:\-\s\.]+/, "").trim();
   }
@@ -134,6 +144,18 @@ function parseSingleEventPiece(piece) {
     };
   }
 
+  // 3/b) Idő közvetlenül a szöveg előtt (14.00Cselló, 14:00Zene, stb.)
+  m = text.match(/^\s*(\d{1,2}(?:(?:[:.])\d{1,2})?)[\.:]?\s*(.*)$/s);
+  if (m) {
+    const startRaw = m[1];
+    const titleRest = cleanTitle(m[2]);
+    return {
+      startDate: normalizeTime(startRaw),
+      endDate: null,
+      title: titleRest
+    };
+  }
+
   // 4) Nincs idő → egész szöveg a cím
   return {
     startDate: null,
@@ -155,7 +177,7 @@ if (fs.existsSync(lastCachePath)) {
     cache = [];
   }
 }
-						
+								
 function getEventId(id, pieceIndex, eventDay) {
   const raw = `${id}-${pieceIndex}-${eventDay}`;
   const hash = crypto.createHash("md5").update(raw).digest("hex");
@@ -173,7 +195,7 @@ async function fetchEvents() {
   const sheets = google.sheets({ version: "v4", auth });
   const spreadsheet = await sheets.spreadsheets.get({ spreadsheetId: SPREADSHEET_ID });
   const sheetTitles = spreadsheet.data.sheets.map((s) => s.properties.title);
-
+  
   const events = [];
 
   for (const sheetTitle of sheetTitles) {
@@ -194,7 +216,6 @@ async function fetchEvents() {
       const eventDays = expandDays(sheetTitle, rawDay);
       if (eventDays.length === 0) return;
 
-      // B cella darabolása
       const pieces = String(rawEventCell).split(/[\n\r]+|,(?![^()]*\))/).map(s => s.trim()).filter(Boolean);
 
       pieces.forEach((piece, pieceIndex) => {
@@ -225,7 +246,6 @@ async function fetchEvents() {
 function diffEvents(oldEvents, newEvents) {
   const changes = [];
 
-  // Segédfüggvény: lényegi mezők stringgé alakítása
   function getEventContentKey(ev) {
     return [
       ev.sheetTitle,
@@ -241,21 +261,17 @@ function diffEvents(oldEvents, newEvents) {
   const oldMapById = new Map(oldEvents.map(ev => [ev.id, ev]));
   const newMapById = new Map(newEvents.map(ev => [ev.id, ev]));
 
-  // Ellenőrizzük az új és frissített eseményeket
   for (const [id, newEv] of newMapById.entries()) {
     const oldEv = oldMapById.get(id);
     if (!oldEv) {
-      // Nincs a régi listában → új esemény
       changes.push({ type: "newEvent", event: newEv });
     } else {
-      // Van régi esemény → ellenőrizzük a lényegi mezők változását
       if (getEventContentKey(oldEv) !== getEventContentKey(newEv)) {
         changes.push({ type: "updatedEvent", oldEvent: oldEv, newEvent: newEv });
       }
     }
   }
 
-  // Ellenőrizzük a törölt eseményeket
   for (const [id, oldEv] of oldMapById.entries()) {
     if (!newMapById.has(id)) {
       changes.push({ type: "deletedEvent", event: oldEv });
@@ -275,12 +291,9 @@ async function processChangesSequentially(changes) {
     } else if (change.type === "deletedEvent") {
       await deleteEvent(change.event);
     }
-
-    // várakozás 2 másodpercig
     await new Promise(resolve => setTimeout(resolve, 2000));
   }
 }
-
 
 async function poll() {
   if (isRunning) {
